@@ -1,0 +1,586 @@
+6. Definición del discurso crítico 129
+
+“La obra de que se trata en primer lugar es crítica
+de las categorías económicas o, if you like, el sistema
+de la economía burguesa expuesto críticamente.
+Es al mismo tiempo exposición del sistema y,
+mediante la exposición, crítica del mismo.”
+
+Marx a Lassalle, carta del 22 de febrero de 1858.
+
+A partir del siglo XIX, la sobreposición de dos procesos revoluciona­rios 
+de distinto orden, el liberal y el comunista, determina en el plano
+propiamente discursivo de la existencia social la presencia de un fenó­meno 
+paradójico que podría ser descrito así: el discurso del liberalismo
+político, cultivado por la burguesía europea posrevolucionaria en su res­tauración 
+del liberalismo económico o pro-capitalista, es asumido por la
+intelectualidad representante de la clase trabajadora como el discurso
+básico o de partida en su intento de formular un discurso de intención
+comunista.
+La mayoría de los autores que se ubican en la izquierda no ve nin­guna 
+contradicción en el hecho de entreverar en su labor categorías metódicas 
+y conceptos descriptivos de la sociología positivista, por un lado,
+y del materialismo histórico, por otro. Confiados en un efecto directo y
+determinante de sus intenciones políticas sobre su producción teórica, no
+reparan en que los orígenes y las tendencias discursivas contrapuestos
+de estos dos aparatos teóricos se hallan inscritos en la estructura de los
+mismos 130 y permanecen activos desde ella ni en que, al yuxtaponer los
+dos funcionamientos, someten necesariamente —aunque sea contra su
+voluntad— la eficacia del aparato más débil, el insurgente o revoluciona­rio, 
+a la del más fuerte, el establecido o restaurador.
+
+129 
+Publicado originalmente en Cuadernos Políticos, núm. 10, México, 1976
+
+130 
+Olvidan que la sociología inspirada en la filosofía científica o “positiva” —esto es,
+“constructiva”, respetuosa de lo dado, aquiescente con el orden establecido, unificadora 
+de los espíritus— fue puesta en pie para combatir las doctrinas comunistas,
+continuadoras de la filosofía crítica o “negativa” —esto es, “destructiva”, cuestio­nante 
+frente a la empírea, impugnadora del poder, deslindadora de los intereses históricos—.
+
+Desde la década de los años veinte, el pensamiento marxista hetero­doxo 
+se ha planteado, tanto metodológicamente como en sus investiga­ciones 
+concretas, el problema de su especificidad como teoría revolucio­naria. 
+La discusión ha vuelto a abrirse después del “fin del mundo” en
+1945 y de la “guerra fría” que lo continuó y que parece llegar a su cul­minación. 
+Lo que intentamos en las siguientes páginas es introducir en
+ella la consideración del modo peculiar (y, creemos, ejemplar) —el modo
+de la crítica— en que esa relación entre el discurso liberal aburguesado
+y su núcleo duro, la ciencia de la economía política, y el discurso revo­lucionario 
+de la clase trabajadora, el “comunismo científico”, tiene lugar
+en la obra teórica de Marx.
+
+I. Teoría revolucionaria y revolución en la teoría
+
+La principal obra teórica de Marx, la “crítica de la economía polí­tica”, 
+pertenece en calidad de elemento central a la realización de un
+proyecto teórico mucho más amplio y diferenciado, el del “comunismo
+científico”; éste le adjudica su función predominante y, sobre todo, le imprime 
+su carácter crítico.
+El proyecto teórico del comunismo científico se afirma como proyecto
+crítico en la medida en que se realiza como un proyecto a la vez científico
+y revolucionario; aún más, revolucionario por ser científico y científico por
+ser revolucionario.
+Una doble exigencia —que por el año de 1844 se concentra en la si­tuación 
+de Marx, el filósofo y el militante— obliga a esta doble realiza­ción. 
+Es por un lado una exigencia que aparece en el terreno propio de la
+teoría; es por otro una exigencia que viene directamente de la revolución.
+
+a. De la teoría a la revolución
+
+La actualidad de la revolución comunista comporta una radicalidad
+tal que afecta y pone en juego incluso al estrato más profundo de la rea­lidad, 
+aquel que no pudo ser tocado por las otras revoluciones de la “era
+histórica” (o, mejor, “prehistórica”): la esfera en que ella se distingue en
+cuanto tal (lo “cósmico”) de la materia en sí (lo “caótico”).
+Dentro de la perspectiva de la ocupación teórica, científico-filosófica
+—que es la perspectiva inicial de Marx— , este efecto de la actualidad
+de la revolución comunista se experimenta bajo la forma de un cuestionamiento. 
+La noción tradicional acerca de una determinación metafísica
+(extrasocial) e idealista (espiritual) de las posibilidades que tiene un
+discurso de ser científico o de producir un saber verdadero exige ser su­perada, 
+y no sólo en términos dialécticos e historizadores (Kant, Hegel)
+sino también en términos materialistas.
+Las tesis de Marx “ad Feuerbach” resumen esa superación. En tér­minos 
+dialéctico-materialistas, las posibilidades de verdad que hay para
+el saber se definen dentro de un horizonte social-natural de objetividad o
+sentido que va siendo constituido prácticamente como negación o re-ordenamiento 
+de lo puramente natural. Es la tendencia básica que llevan las
+modificaciones históricas (revoluciones) adoptadas por la praxis o proceso
+social de reproducción (“trabajo”) la que marca la dirección dentro de la
+cual la intención de un saber puede ser verdadera o científica.
+De ahí el primer aspecto de la autoafirmación teórica comunistamarxista: 
+realizarse como teoría científica quiere decir realizarse como
+teoría de la revolución, esto es, como teoría que participa en la revolución
+y que es teoría sobre la revolución. Y como la totalidad del proceso social
+de reproducción ha entrado, desde las primeras crisis del capitalismo, en
+toda una época de destrucción y reestructuración radicales, en la épo­ca 
+de la revolución total, el desarrollo de un saber verdadero sólo puede
+corresponder a un discurso que siga necesariamente el impulso de este
+movimiento: al discurso comunista o compuesto a partir de la práctica de
+la clase propiamente anticapitalista y revolucionaria, la clase de los tra­bajadores asalariados.
+
+b. De la revolución a la teoría
+
+Pero el movimiento revolucionario comunista se construye lentamen­te, 
+probando y desechando distintos esbozos; la formación de su identi­dad 
+sigue una historia dura y larga; la historia de las luchas que llevan
+a la masa de proletarios miserables, aislados, desesperados, indefensos,
+a constituirse como clase social organizada y como contrapoder efectivo,
+impulsor de una alternativa política global frente al mundo de los explo­tadores 
+capitalistas. Y cuando Marx se suma al proletariado esta historia
+se halla aún a medio camino.
+La intervención de Marx parte precisamente de la constatación de
+una insuficiencia decisiva del movimiento proletariado revolucionario y
+culmina en la solución de la misma.
+La insuficiencia: el movimiento obrero ha llegado a ser ya una fuerza
+social y política de importancia central, pero “algo” hace que su impulso
+se desvíe, en unos casos hacia lo inesencial o inofensivo (“reformismo”), en 
+otros hacia lo irreal y autodestructivo (“utopismo”). Su actividad se halla
+todavía sometida —sea absorbida o neutralizada— a la acción del meca­nismo 
+reproductor de las relaciones sociales-institucionales capitalistas.
+La solución: para la construcción del contrapoder (“partido”) comu­nista 
+se requiere que la clase de los trabajadores alcance todo un nuevo
+grado de independencia organizativa y de radicalidad programática, y
+ello sólo puede darse si tiene lugar un acontecimiento propiamente dis­cursivo 
+o que pertenece al terreno específico de la lucha ideológica, pero
+que ha adquirido una función relativamente predominante o ha concen­trado 
+en sí coyunturalmente la función resolutiva de todos los demás
+acontecimientos —incluso los más determinantes— del movimiento revolucionario: 
+el desarrollo de un saber científico —es decir, propio de la
+clase proletaria y liberado de las limitaciones impuestas por el discurso
+burgués dominante— sobre las condiciones del tránsito del modo capi­talista 
+de la reproducción social a su organización comunista.
+De ahí el segundo aspecto de la autoafirmación teórica comunistamarxista 
+—y, al mismo tiempo, la definición de su tarea teórica— : rea­lizarse 
+como teoría revolucionaria quiere decir realizar la revolución
+también como revolución en el terreno específico del discurso teórico.
+Y primeramente como revolución en el discurso que versa sobre la rea­lidad 
+económico-social (política), puesto que en toda la era mercantil y
+capitalista el conjunto del discurso teórico gira —abierta o embozada­mente— en torno a él.
+
+II. La necesidad del carácter crítico
+del discurso comunista
+
+La necesidad, para la teoría, de volverse teoría de la revolución y
+la necesidad, para la revolución, de ampliarse como revolución, en la
+teoría: ambas se resuelven unitariamente en la realización del proyecto
+teórico comunista-marxista como discurso teórico esencialmente crítico.
+Esto es así porque ni esa conversación de la teoría ni este perfecciona­miento 
+de la revolución pueden tener lugar de manera positiva y pura
+(acrítica) —como creación de un saber meramente sustitutivo a partir
+de la nada—, sino sólo de manera negativa y comprometida, como re­sultado 
+de la elaboración permanentemente conflictiva, en contra pero
+dentro del dominio ideológico capitalista, de un saber de la revolución
+comunista.
+
+1. Las condiciones del dominio ideológico
+
+“El lenguaje mismo es tanto el producto
+de una comunidad como,
+desde otra perspectiva, la existencia de la comunidad
+como existencia que implica al ser hablante.”
+
+(K. Marx, Grundrisse..., p. 390).
+
+Las ideas de la clase dominante capitalista no sólo son dominantes
+porque son expuestas (e impuestas) con medios de difusión de un alcance
+y una eficacia inmensamente mayores que los de los gestos y las palabras
+con que protestan las clases sometidas. Sin duda, los mensajes que hacen
+la apología del orden social establecido se vuelcan de manera abrumado­ra 
+sobre todos los individuos sociales. Pero no es esta brutal insistencia
+la que sustenta el carácter dominante de las ideas dominantes. La lucha
+ideológica no consiste simplemente en un enfrentamiento entre dos cuer­pos 
+de doctrina que se disputen el derecho a asentarse sobre la “concien­cia 
+social” y a ocuparla, y en el que uno, el de la burguesía, se imponga
+y acalle al otro debido tan sólo a una supremacía física en el acceso a los
+aparatos de comunicación.
+Las ideas del burgués dominan porque —como dice Marx (La ideo­
+logía alemana, III, 1: “El viejo testamento”, 6 , B)— él puede “demostrar”
+fácilmente con el lenguaje de la época la “identidad” entre las “relaciones
+individuales o humanas en general” y las “relaciones mercantiles”. Y pue­de 
+hacerlo porque “este propio lenguaje es un producto de la burguesía y,
+por tanto, igual que en la realidad, también en el lenguaje las relaciones
+de intercambio valorizador (schacher) han sido convertidas en la base de
+todas las demás”.
+La lucha ideológica y el dominio ideológico son hechos que ocurren en
+primer lugar y de manera determinante, en la esfera profunda del “len­guaje 
+de la vida real”, allí donde se produce el discurso, el “lenguaje pro­piamente 
+dicho”, es decir, “la conciencia y las ideas”.
+Dos hechos que pertenecen a esta esfera serían, así, las causas que
+determinan el carácter dominante del discurso o las ideas de la clase do­minante 
+burguesa en el modo de reproducción capitalista. El primero y
+principal es de orden general y afecta así directamente a todo el proce­so 
+de producción/consumo de significaciones o proceso comunicativo de
+la sociedad; el segundo, supeditado al primero, sólo afecta directamente
+de manera particular a la producción/consumo discursiva o propiamente
+ideológica de significaciones, como rama central pero aislada dentro del
+proceso comunicativo.
+Primer hecho: únicamente en el caso de las significaciones concre­tas 
+(inclusive significaciones discursivas o ideas) compuestas por la clase
+burguesa para defender sus propios intereses su eficiencia o verosimili­tud 
+se encuentra potencializada por la acción de un dispositivo normador
+o subcodificador del código comunicativo general, que imprime a toda la
+producción/consumo de significaciones un sentido apologético elemental
+respecto del modo capitalista de la reproducción social.
+
+Figura 1
+
+Reproducción social y significación
+
+a) La praxis o el proceso social de reproducción (R), como todo pro­ceso 
+de reproducción gregario, es un proceso de producción/consumo indirecto 
+del sujeto (S) mediante producción/consumo directo de objetos
+intermedios o de naturaleza (N) transformada. La especificidad de la
+praxis o proceso social de reproducción reside en que es además —como
+dice Marx en el capítulo V de El capital, I— un proceso de “realización”:
+un proceso de reproducción indirecta en el cual todos los objetos inter­medios 
+poseen en mayor o menor medida un carácter instrumental o
+son aptos para dar lugar a un conjunto abierto de efectos (y no a uno
+solo o a una serie cerrada de ellos), por cuanto se hallan mediando o
+posibilitando, como objetos prácticos, productos útiles (con valor de uso)
+o bienes producidos (B/P), el cumplimiento de un conjunto de fines (sa­tisfacciones 
+de necesidades) que siempre está todavía por ser elegido o
+decidido, propuesto o proyectado por el sujeto. Dicho en otros términos:
+la especificidad de la praxis reside en que es un proceso colectivo de reproducción 
+que sólo puede cumplirse como proceso de autoreproducción:
+un proceso en el que toda la reproducción natural se halla al servicio (o
+sometida a la finalidad) de un proceso reproductivo de otro orden y que
+lo transciende: el proceso de producción/consumo de la estructura mis­ma 
+de las relaciones sociales (políticas) que constituyen al sujeto.
+En tanto que proceso de “realización”, el proceso de reproducción so­cial 
+posee necesariamente una dimensión dentro de la cual él mismo
+es un proceso de producción y consumo de significaciones. El proceso
+de “realización” sólo puede llevarse a cabo en la medida en que proce­de 
+como ciclo comunicativo, como movimiento que, al producir/consumir
+objetos, sintetiza a un sujeto carente de unidad consolidada o de figu­ra 
+preestablecida. Al “realizar” objetos, el sujeto social debe realizarse:
+debe crear o re-crear su propia identidad social o esencia política. En
+otros términos, debe constantemente salvar en sí mismo un hiatus o
+superar una escisión que le es constitutiva: la falta de una coincidencia
+natural o una correspondencia espontánea entre las dos perspectivas de
+su existencia: como sujeto en acto de producir (p) y como sujeto en acto
+de consumir (c). Debe, por tanto, emitir/recibir (producir/consumir) el
+mensaje con el que, estando en un momento dado (t1), define su figura
+futura o se proyecta a sí mismo para el momento siguiente (t2).
+Por esta razón, todo objeto propiamente instrumental o práctico es
+siempre una cosa significativa o dotada de sentido: una porción de mate­ria 
+sustancializada (estrato natural) por una forma (estrato social) que la
+determina (circunscribe, recorta) de manera biplanar, con un aspecto de
+significado o contenido y con otro de significante o expresión, dentro de
+esa tensión autoreproductiva y comunicativa.
+El conjunto de leyes de acuerdo al cual se organizan las posibilida­des 
+de figuración concreta del sujeto social en su autoreproducción implica 
+necesariamente un código general que organiza las posibilidades
+concretas de su comunicación o su significar. Y así como ese conjunto de
+leyes cambia históricamente, lleva una tendencia estructural en su modificación 
+y califica positiva o negativamente en referencia a ella a toda
+acción social posible, así también el código general sigue esa tendencia
+básica en su dinámica específica y califica de verdaderos o falsos, según
+se adecúen o no a ella, a todos los mensajes concretos posibles.
+
+b) Pero el modo de funcionamiento propiamente capitalista del pro­ceso 
+social de reproducción o trabajo sólo coincide de manera contradic­toria 
+con las determinaciones estructurales o básicas del mismo. El pro­ceso 
+de trabajo capitalista, dice Marx, es la “unidad contradictoria del
+proceso de trabajo (T) con un proceso de valorización del valor (Vv)”. (Es
+la configuración más acabada —absolutizadora o universalizadora— de
+la modalidad histórica del proceso de reproducción social como serle inconexa 
+de procesos productivistas-privados del trabajo, es decir, como
+proceso reproductivo cuya totalidad se encuentra organizada y regulada
+contradictoriamente por un proceso espontáneo o casual de formación e
+intercambio de valores.)
+En la modalidad capitalista del proceso de vida social global, la autoreproducción 
+del sujeto comunitario sólo se lleva a cabo en la medida
+en que se halla subordinada a la satisfacción de un sistema de necesida­des 
+que es heterogéneo respecto del suyo propio: el que se determina en
+la dinámica autoreproductiva y acumulativa del capital —relación social
+que adjudica a una parte del sujeto la función de “cosa valiosa” para la
+otra— o “sujeto automático” por sustitución. Para el sujeto comunitario,
+autorreproducirse de manera capitalista es, por ello, realizar (afirmar) su
+propia supervivencia, pero hacerlo —he aquí su contradicción— en tanto
+que sujeto explotado (negado) tanto en lo físico (el derecho al disfrute del
+producto de su labor) como en lo específicamente humano (en su autar­quía 
+o facultad de decidir sobre sí mismo).
+Los objetos prácticos, mediante los cuales tiene lugar este proceso,
+adoptan, consecuentemente, una forma peculiar, de doble estrato social
+como la de los fetiches u objetos de culto religioso. Junto a la objetividad
+que es en ellos básica o estructural, la concreta o social-natural —la de 
+productos que se expresan como bienes (4-P)—, adquieren otra, derivada
+de la primera, que actúa sobre ella y que la configura o refuncionaliza: la
+objetividad abstracta o social por valorización —la de valores que se ex­presan 
+como valores de cambio o precios ($/V )—. Se vuelven mercancías,
+objetos “sensorialmente suprasensoriales”, propios de la autoreproducción
+de la comunidad (“terrenales”) y propios de ellas como autovalorización
+del capital (“celestiales”), objetos “místicos”.
+
+c) La modificación capitalista del proceso social de reproducción o
+trabajo implica necesariamente una modificación similar de su dimen­sión 
+específicamente comunicativa. Lo que es configuración capitalista
+de la estructura y la tendencia básica del proceso de reproducción se
+presenta también como refuncionalización capitalista de su dimensión
+comunicativa, como normación o subcodificación capitalista del código y
+la tendencia general de la reproducción/consumo de significaciones.
+En la vigencia de esta subcodificación, todo sucede como si un men­saje 
+singular resultara “naturalizado” o convertido en el principio inhe­rente 
+e incuestionable de una restricción sistemática de todo el conjunto
+de posibilidades que el código general delimita para la producción/con­sumo 
+de significaciones. Un mensaje singular absurdo según la tenden­cia 
+elemental del propio código, pero necesario históricamente como la
+organización capitalista de la reproducción social: el mensaje que afirma 
+la identidad entre autoproducción del sujeto comunitario y autovaloración del valor.
+
+Figura 2
+
+La significación práctica, subordinada al sentido de la valorización
+
+R(c)
+Vv (c)
+
+expresión
+
+B
+sent. estr.
+{subst 11 = expr. I)
+
+S
+(forma II)
+
+contenido
+
+P
+sent. estr.
+(subst. II = cont. I)
+
+V
+(forma II)
+
+R (p)
+Vv (p)
+
+En estas condiciones, significar con verdad, esto es, con adecuación
+respecto de la tendencia estructural o básica que sigue el devenir de la
+praxis social, parece ser lo mismo que significar con adecuación respec­to 
+de la configuración capitalista de esa tendencia. Por ello, el sentido
+o la significatividad coextensiva al objeto práctico mercantil (de forma
+fetichoide) es un sentido o una significatividad fetichista. En la mercan­cía, 
+la significatividad estructural básica que ella tiene como todo objeto
+práctico es tratada —diría Hjelmslev en La stratification du langage—
+como simple material y convertida en la sustancia (II) de una forma (I)
+superpuesta y parasitaria que la configura de un modo particular (ca­pitalista). 
+En ella, la presencia del sentido básico se vuelve indirecta y
+“misteriosa”: se encuentra, dice Marx, como en un “jeroglífico”.
+Dentro de la conveniencia social capitalista comunicar se vuelve
+una acción en la que el agente concreto no queda como el único emisor/
+receptor de sus significaciones; junto a él, “despertado” por él, entra en
+escena otro agente, inasible pero efectivo: el capital como modo 
+cosificado (enajenado) de existencia del sujeto social. Su aporte consiste en
+intensificarles el sentido apologético respecto del orden social estableci­do 
+a las significaciones que iban ya a tenerlo, dotarles de uno a las que
+iban a pretenderse neutras y debilitarles o invertirles el suyo a las que
+iban a ser impugnadoras. De esta manera, toda significación producida/
+consumida dentro del modo capitalista de reproducción conlleva nece­sariamente 
+un estrato dependiente pero dominante que se sirve de ella
+para “repetir” una vez más la intención de ese “mensaje” procapitalista
+difuso y omnipresente.
+
+d) Una subcodificación o normación restrictiva, montada sobre el có­digo 
+general y confundida con él, instituye por tanto a esa identificación
+apologética entre la modalidad capitalista del proceso de trabajo y la
+estructura del mismo, que sólo es de interés positivo para una parte de
+la sociedad —para la clase burguesa o clase cuya existencia depende de
+que la reproducción social se realice como producción de plusvalor—,
+como algo dotado de un interés positivo social universal (algo pertene­ciente 
+al código, incuestionable).
+Es por ello que la lucha de clases en la esfera de la producción/con­sumo 
+de significaciones —inclusive, por supuesto, la lucha propiamente
+discursiva o ideológica-, cuando es una lucha que tiene lugar en condi­ciones 
+normales, es decir, como enfrentamiento y forcejeo directo (duelístico) 
+sobre el mismo terreno, se encuentra ya decidida de antemano.
+Ni aún proponiéndoselo, el significar burgués puede perder ante el sig­nificar 
+proletario: el terreno de la lucha es el de una cuesta sumamente
+inclinada en su favor. Normalidad no es otra cosa que acondicionamien­to 
+absolutamente beneficioso para él. Debe vencer porque hay una como
+“verdad” que está de su lado: el sentido “objetivo” de los hechos del mun­do 
+capitalista —que se entrega en los datos sensoriales que son, como se
+sabe, “a prueba de toda duda”— y su propio sentido “subjetivo” burgués
+son uno solo; tiene, por tanto, que coincidir. El significar revoluciona­rio 
+del proletariado, en cambio, debe luchar también, y en primer lugar,
+contra el propio instrumento de que se sirve, en el que hay un dispositi­vo 
+(la subcodificación capitalista) que lo reprime espontáneamente: que
+le permite hacerse presente pero sólo como significar desvirtuado en su
+intención (invertido en su tendencia) o, si se prefiere, como significar
+morboso y absurdo.
+Segundo hecho: únicamente en el caso de las ideas o significaciones
+discursivas concretas compuestas por la clase burguesa para defender
+sus propios intereses, su capacidad persuasiva se encuentra apoyada por
+el contorno significativo no discursivo (técnico e institucional) resultante
+de toda la actividad social como actividad organizada para perpetuar el
+modo capitalista de su realización.
+
+a) La producción/consumo de significaciones discursivas o ideas es la
+producción/consumo de objetos prácticos que se “especializa” en aquellos
+cuyo carácter práctico se concentra exclusivamente en su comunicatividad o 
+en su función de portar o transmitir un mensaje. Precisamente por­
+que su especialidad consiste en la producción/consumo de objetos que son
+significaciones en estado de independencia, su capacidad productiva/con­suntiva 
+de significaciones es de un orden superior (cualitativa y cuantita­tivamente) 
+respecto de la del resto de la producción/consumo de objetos
+prácticos, que sólo produce/consume significaciones atadas o insertadas
+en la practicidad básica de los objetos.
+Sin embargo, durante toda la era mercantil —era de la atomización
+del sujeto social y de la enajenación de su politicidad—, la producción/consumo 
+discursiva o de significaciones en estado puro, pese a su capa­cidad 
+funcional superior, que hace de ella la ocupación más directamen­te 
+política o decisoria de la figura de las relaciones sociales, no recibe
+adjudicada ninguna tarea especialmente importante dentro de la totali­dad 
+del proceso reproductivo social. Su independencia técnica, en estas
+condiciones, equivale más bien a una desvinculación y una pérdida re­lativa 
+de influencia sobre el conjunto de la producción/consumo de signi­ficaciones 
+en estado práctico. Ese aumento de la pureza y el volumen de
+su producción/consumo de significaciones redundan aquí en una dismi­nución 
+relativa de la capacidad persuasiva que debería corresponderle.
+Sobre todo en la época del modo capitalista de reproducción, la ca­pacidad 
+persuasiva de las ideas o significaciones que aparecen en la
+producción/consumo discursiva es débil y subordinada: depende en gran
+parte de lo que acontezca en el contorno significativo básico, producido/
+consumido por todo ese “lenguaje” no discursivo “de la convivencia” (al
+que se refieren Marx y Engels en La ideología alemana). Depende de si
+este contorno las apoya (corrobora, completa) o las rechaza (desmiente,
+contradice).
+
+b) Y ese “lenguaje” no discursivo es precisamente el que “hablan”
+los individuos sociales al ejercer su actividad concreta en tanto que eje­cución 
+de los designios emanados del proceso abstracto de valorización
+del valor (producción de plusvalor y acumulación del capital) como pro­ceso 
+en el que se ha cosificado la autarquía del sujeto comunitario. Es el
+“lenguaje” de todos los actos de una convivencia social que, al realizar­se 
+y continuarse, reafirma y prolonga la vigencia de la supraestructura
+institucional o modo capitalista de convivencia como condición “natural”
+e indispensable de sí misma.
+Es por ello que, dentro de la lucha de clases propiamente ideológica
+del capitalismo, las ideas apologéticas del discurso burgués cuentan con
+el respaldo de este contorno significativo superestructurado en sentido ca­pitalista, 
+y adquieren así una mayor fuerza persuasiva. A la inversa, las
+ideas impugnadoras del discurso proletario son oprimidas por ese mismo
+contorno: “todo habla” en contra de ellas, un “consenso” implícito las de­clara 
+ilusorias, irrealistas, y merma así su capacidad persuasiva.
+
+2. Las posibilidades de romper el dominio ideológico
+
+“A estas relaciones petrificadas hay que obligarlas
+a bailar cantándoles su propia melodía”
+
+Marx, Contribución a la crítica de la filosofía
+hegeliana del derecho. Introducción.
+
+El discurso teórico comunista-marxista tiene el carácter de un discur­so 
+crítico en tanto que existe y se desarrolla dentro de la lucha ideológica
+de clase propias de la época culminante del modo histórico capitalista de
+la reproducción social: dentro de un enfrentamiento constante con este
+doble dominio ideológico de la clase burguesa.
+
+a) La lucha contra la segunda causa —la causa extradiscursiva, su­peditada 
+y mediata— del carácter dominante del discurso burgués no
+puede ser llevada a cabo por el discurso comunista en cuanto discurso.
+Se trata de una lucha que se confunde con la empresa revolucionaria
+en su conjunto, es decir, con la actividad comunista general de la clase
+proletaria.
+Esta actividad, que se constituye en torno a las posibilidades reales
+—presentes en el propio mundo capitalista— de una nueva forma (comu­nitaria) 
+para las relaciones de reproducción social, actualizándolas desde
+ahora en las organizaciones obreras y en el contrapoder revolucionario,
+afecta también, necesariamente, a esa producción/consumo de las signifi­caciones 
+no discursivas en el “lenguaje de la convivencia” cotidiana.
+La nueva sociedad se esboza ya —siempre como negación determina­da 
+de la sociedad actual— y elabora los elementos de un significar social
+liberado creando su propio contra-contorno significativo básico, contra­rresta 
+así la acción del contorno capitalista dominante y crea el ambien­te 
+favorable o campo de persuasión donde su discurso puede encontrar y
+desplegar su cientificidad crítica.
+
+b) La crítica es el carácter que corresponde propiamente a la presen­cia 
+del significar revolucionario del proletariado o significar comunista en
+la esfera específica de la producción/consumo discursiva, y, por tanto, de
+la lucha ideológica dentro del modo de reproducción social capitalista. En
+otros términos, la crítica es el único modo adecuado que puede adoptar la
+construcción científica de un saber proletario revolucionario en las condi­ciones 
+de subcodificación o normación apologética impuesta en beneficio
+propio por el modo capitalista de la reproducción social a la producción/
+consumo de significaciones en general.
+En efecto, la primera causa —la causa específica, principal e inme­diata— 
+del carácter dominante del discurso capitalista no puede ser com­batida 
+por el significar proletario de manera a-crítica, ingenua o normal.
+Un enfrentamiento de tal naturaleza lo sometería a las reglas de juego
+del discurso burgués y haría de él, en última instancia —y a pesar su­yo—, 
+un discurso apologético del orden capitalista.
+En este sentido, dos ilusiones acerca de la conveniencia revolucio­naria 
+de este enfrentamiento directo —que estaría dirigido a vencer al
+saber burgués en el escenario de la Ciencia y a sustituirlo por un saber
+proletario— deben ser desechadas.
+Primera ilusión: el significar revolucionario puede constituirse en un
+discurso positivo, similar u homogéneo respecto del discurso burgués,
+aunque alternativo frente a él y con mayor capacidad de verdad.
+Se trata de una ilusión porque refleja sobre las posibilidades de cientificidad 
+del discurso revolucionario el deseo imposible de repetir la figura
+histórica concreta que ha adoptado la cientificidad en el discurso teórico
+de la era mercantil y de la época capitalista.
+Para disiparla es necesario reconocer que, por el contrario, el significar
+revolucionario comunista se compone en medio de la actualización o vigen­cia 
+adelantada de unas relaciones sociales de reproducción —las comuni­tarias— 
+que pertenecen a un tiempo nuevo, esencialmente diferente de la
+era mercantil y capitalista.
+En efecto, el significar revolucionario comunista acontece en la rea­lización 
+del proceso de reproducción social capitalista en lo que él tiene
+de proceso fundamental o proceso concreto de producción/consumo de ob­jetos 
+prácticos, es decir, en lo que él tiene de proceso de reproducción del
+factor subjetivo real (la comunidad explotada).
+Acontece, por tanto, en la realización básica o estructural del proceso
+social de reproducción, que se halla subsumida y explotada por la realiza­ción 
+del proceso sobrepuesto o proceso de acumulación del capital.
+Se trata de un significar propiamente revolucionario porque tiene
+lugar como actividad mediadora entre proyectos y necesidades concretas
+que contradicen estructuralmente el modo capitalista de reproducción;
+proyectos y necesidades que sólo pueden desarrollarse orgánicamente
+en la medida en que el sujeto social real (la clase proletaria) comien­za 
+a recobrar y reasumir la función sintetizadora de la socialidad (la
+autarquía, la sujetidad) que se halla enajenada como funcionamiento
+automático del “valor que se valoriza”, del capital. En otras palabras,
+se trata de un significar revolucionario porque la intención central de
+todos sus mensajes es verdadera, concuerda con la tendencia marcada
+por la nueva modificación (liberación) del código básico, o sea, por la for­mación 
+de la nueva objetividad: la objetividad social-natural del nuevo
+vivir comunitario.
+Es, por tanto, un significar que se compone en un plano esencialmen­te 
+heterogéneo respecto del que sirve de plataforma al significar burgués.
+Su desarrollo como discurso no parte de una necesidad de refutación di­recta 
+(de rectificación o perfeccionamiento) del discurso burgués, sino, por
+el contrario, de una necesidad de abolirlo y superarlo radicalmente.
+Por lo tanto, su relación polémica adecuada con el discurso burgués sólo
+puede darse de manera indirecta, haciendo intervenir a los linderos de ese
+terreno, poniendo en cuestión las condiciones normales del enfrentamiento.
+Y sólo puede consistir en la composición de su propio saber en tanto que ne­gación 
+inmediata del saber capitalista o construcción sistemática de lo que
+no puede ser sabido por el saber adquirido de manera capitalista.
+Segunda ilusión: el significar comunista puede desarrollarse como
+discurso científico de manera independiente respecto del discurso cientí­fico 
+burgués, y puede levantar ya, antes del revolucionamiento total, un
+saber completo, al margen del saber capitalista, exclusivamente a partir
+de la experiencia de la clase proletaria.
+Se trata de una ilusión porque refleja sobre las posibilidades actua­les 
+(en situación de sometimiento) de desarrollo del discurso comunista la
+imagen deseada pero aún irrealizable de lo que ellas habrán de ser en el
+futuro (en situación de libertad).
+Las relaciones comunistas de reproducción social se hallan ya formal­mente 
+presentes en la reproducción social capitalista, es decir, en el inte­rior 
+de las relaciones propiamente capitalistas que constituyen al sujeto
+social. Pero su presencia es subordinada y reprimida; se delinea como una
+estructura en negativo —posible pero constantemente obstaculizada— en
+torno al conjunto de fallas o puntos de fracaso del propio orden capitalista.
+En consecuencia, la posibilidad de su presencia real no implica la creación
+de un mundo absolutamente desvinculado del que existe como mundo ca­pitalista, 
+sino, por el contrario, la construcción de otro esencialmente dife­rente 
+de él pero que se esboza a partir de sus imposibilidades.
+Igualmente, el discurso de las relaciones comunistas de reproducción
+formalmente presentes —discurso indirecto y negativo— se desarrolla
+dentro de las condiciones concretas del discurso en general: subordinado,
+por tanto, a la configuración capitalista que todavía afecta estructural­mente 
+a éste durante todo el periodo de transición o revolucionamiento. Es
+un discurso que, en la época capitalista, se formula sobre la base del sig­nificar 
+revolucionario del proletariado; significar que, a su vez, sólo existe
+efectivamente como significar transgresor de las normas del significar do­minante: 
+como “mal uso” o empleo “defectuoso” del conjunto de posibilida­des 
+(restringido en sentido capitalista) de significar en general.
+Por ello, la relación polémica adecuada del discurso comunista con el
+discurso burgués sólo puede darse dentro del discurso teórico general y
+precisamente a través de una transgresión organizada de las normas espe­cíficamente 
+capitalistas que rigen concretamente la producción del saber.
+En conclusión, el discurso teórico propio del “comunismo científico”
+sólo puede ser un discurso crítico como el de Marx en El capital: capaz
+de apropiarse del saber formado a partir de la objetividad capitalista, de
+someterlo a la acción desestructuradora de las significaciones producidas
+espontáneamente por los “esclavos modernos” y de recomponerlo de ma­nera 
+tal, que los vacíos dejados por el discurso burgués que lo produjo se
+vuelvan evidentes en su sistematicidad y den pie así al saber necesario
+para la revolución.

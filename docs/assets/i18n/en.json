@@ -1,0 +1,24 @@
+{
+    "HELLO": "hello",
+    "HOME": {
+        "TITLE": "Hello Angular with ngx tranlate",
+        "TEXT": "This is a Demo",
+        "SELECT": "Select Language"
+    },
+    "CONTENTS": {
+        "CONT_1": "Introduction",
+        "CONT_2": "Bolívar Echeverría, breif biograpgy",
+        "CONT_3": "Breve reseña histórica y presupuestos lógico-ontológicos de la estilometría",
+        "CONT_4": "Descripción de corpus",
+        "CONT_5": "Detalles técnicos y principales fuentes",
+        "CONT_6": "Análisis de la frecuencia de longitud ",
+        "CONT_7": "Análisis léxico-gramatical",
+        "CONT_8": "Análisis relacional. Respuesta estilométrica a la pregunta ¿De qué tratan los ensayos de Echeverría?' a partir del complemento de régimen preposicional 'de la'.",
+        "CONT_9": "Delta. Diferencia entre el lenguaje de Echeverría, Marx y Benjamin",
+        "CONT_10": "Cita de François Dominic Laramée sobre el algoritmo de Burrows",
+        "CONT_11": "Conclusiones"
+    },
+    "INTRO": {
+        "P_1": "No necesitamos un algoritmo para entrever que el tema central de Bolívar Echeverría es la vida. La modernidad, el valor de uso, el eurocentrismo, son temas derivados de este hecho asombroso, confuso, alegre y doloroso. Sí, acaso, para recordárnoslo ahora que el estudio académico de su obra gana terreno. Si cada escritor tiene su estilo, cada uno tendrá su frecuencia. Su frecuencia, condición de estructuración de su discurso, es susceptible de análisis y visualización. Habrá que desarrollar nuevos métodos para arrojarse a este ejercicio de hacer visible lo enunciable y sensible lo inteligible. Una difícil tesis recorre la obra de Echeverría: el desarrollo tecnológico no proviene de Ares sino de Eros. Esta propuesta teórica, difícil de sostener, es, sin embargo, susceptible de desarrollarse. Así, pedimos al lector o lectora no obligarnos a la penosa tarea de justificar nuestro trabajo, pues no encontrará en este texto trabajo alguno. Y afirmamos que no sólo el trabajo revolucionará el presente y el futuro. Un juego muy serio, un estudio estilométrico de una parte de la obra de Bolívar Echeverría que proponemos como un modo de comunicar las Ciencias de la Computación y la Filosofía en la búsqueda y afirmación de un presente y un futuro mejor."
+    }
+}

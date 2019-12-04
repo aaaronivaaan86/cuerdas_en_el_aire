@@ -1,0 +1,1159 @@
+5. El "valor de uso": 
+ontología y semiótica 88
+
+Las únicas formas reales de las mercancías son
+sus figuras en el uso, sus formas naturales.
+
+Karl Marx, El capital, Libro 1,
+capítulo VI (inédito)
+
+¿Tiene el discurso de Marx algo que decir en la problematización ac­tual 
+de los fundamentos de una nueva práctica de la política? Sin duda que
+no, si la discusión de Marx con la economía política, que conforma la parte
+central de su obra, “no es más que una tormenta en un vaso de agua”, como
+afirmaba Foucault desde posiciones de una “nueva radicalidad”; si se trata
+de una discusión que no “introduce ningún corte real” con el modo moder­no, 
+decimonónico, de hablar de las cosas; si lo único que hace es “levantar
+unas cuantas olas y dibujar arrugas sobre la superficie” de una “episteme”
+obsoleta. Sí, en cambio, si, como pensamos que sucede en realidad, el con­cepto 
+de “valor de uso” que Marx opone al pensamiento moderno hace esta­llar 
+el horizonte de inteligibilidad en el que éste se mueve 89.
+
+88
+Una primera versión de este texto apareció en el núm. 41 de Cuadernos Políti­cos, 
+diciembre de 1984, con el título de “ La ‘forma natural’ de la reproducción
+social”.
+
+89
+Michel Foucault, Les mots et les choses, París, 1966, pp. 272-75 [ed. esp. Siglo XXI,
+pp. 256-57], La incomprensión de lo alcanzado por Marx, que empobrece la mag­nífica 
+obra de Foucault puede justificarse por la escasa cercanía de este autor al
+texto de El capital. No sucede lo mismo con la incomprensión voluntaria de la que
+hace gala Jean Baudrillard, uno de los más agudos teóricos actuales del inter­cambio, 
+la producción y el consumo de los bienes. Baudrillard (Pour une critique
+de l’economie politique du signe, París, 1972, pp. 154-63 [ed. esp.: Crítica de la
+economía política del signo, México, Siglo XXI, 1974]) se resiste a distinguir en­tre 
+la utilidad en abstracto o valor de cambio de un objeto y su utilidad concreta
+o valor de uso, que es siempre, por necesidad, simbólica, lo mismo en lo colectivo
+que en lo íntimo, en lo público que en lo privado. Con el fin de reservar para sí la
+originalidad de explorar esta última en el “intercambio simbólico”, pasa por alto la
+afirmación de Marx sobre la singularidad concreta e “inconmensurabilidad” de los
+valores de uso, le adjudica el más plano de los utilitarismos y descalifica todo 
+lo que, en la línea de Marx pero más allá de él, pueda decirse acerca de un valor de
+uso dirigido a un disfrute más allá de los límites del “do ut des”.
+
+Las páginas que siguen parten de la idea de que el aporte central del
+discurso de Marx a la comprensión de la civilización moderna está en el
+descubrimiento, la formulación y el análisis crítico de un comportamiento
+estructurador de esa vida civilizada en el plano básico de la economía.
+Se trata del comportamiento de trabajo y disfrute que el sujeto humano
+mantiene con la naturaleza, constituido como una realidad contradicto­ria: 
+por un lado, como un proceso de producción y consumo de “valores de
+uso” y, por otro, como un proceso de “valorización del valor” mercantil de
+los mismos. En términos estrictamente teóricos, una concepción de lo que
+son los objetos de la vida práctica en su forma fundamental o “natural”,
+en su presencia como “valores de uso”, precede y determina necesaria­mente 
+la percepción que tiene Marx de aquello que viene a contradecir
+este modo de ser y esa presencia: del ser para la valorización y el estar
+como valores que se valorizan. Una concepción implícita que sostiene todo 
+el edificio de la crítica de la economía política. Pensamos, sin embargo,
+que el aporte central de Marx a una comprensión crítica de la moderni­dad 
+adolece de una disimetría o unilateralidad; que las amplias y pene­trantes 
+investigaciones del proceso de acumulación del valor capitalista
+—de uno de los dos lados del comportamiento económico contradictorio
+de la sociedad moderna— no se acompañan de investigaciones similares,
+capaces de hacerles contrapeso, en el terreno del otro lado de ese compor­tamiento, 
+el del “valor de uso” y su reproducción. Justificamos así nuestro
+trabajo, como un aporte a la reconstrucción de esa concepción de la “for­ma 
+natural” de las cosas como “valores de uso”, concepción implícita en
+la “crítica de la economía política” y sin cuyo esclarecimiento ella queda
+incompleta y en muchos sentidos enigmática.
+De todas maneras, una pregunta queda en el aire: si la referencia a
+la “forma natural” o “valor de uso” es el trasfondo de la crítica al capita­lismo, 
+¿por qué Marx la emplea con tanta cautela, “sólo allí donde juega
+un papel como categoría económica”? 90. ¿Por qué no opone su propio con­cepto 
+desarrollado a las elucubraciones erráticas sobre las palabras ‘valor’
+y ‘valor de uso’”? 91. ¿Por qué no procede deductivamente a partir de una
+teoría de la producción en general que incluya ese concepto? El discurso
+de Marx es un discurso crítico, des-constructor: trabaja sobre el discurso
+
+90
+K. Marx, Grundrisse der Kritik der politischen Ókonomie, Berlín, 1959, p. 540
+[ed. esp.: Elementos fundamentales para la crítica de la economía política, Méxi­co, 
+Siglo XXI, 1971-1976, 3 vols.].
+
+91
+K. Marx, Randglossen zu Wagners..., p. 323 [ed. esp.: Notas marginales al Tra­tado 
+de economía política de Adolph Wagner, México, Siglo XXI, 1982].
+
+positivo o ideológico que la sociedad moderna genera espontáneamente.
+En su época, los conceptos de “forma natural” y “valor de uso” a criticar
+tenían apenas una formulación incipiente, la de la economía política. En
+tales condiciones, sólo era posible trazar los lineamientos generales de
+un concepto crítico de los mismos; no era tiempo aún de su elaboración
+desarrollada. El problema de la “naturalidad” de las formas sociales y de
+las definiciones del “valor de uso” sólo aparece de manera enfática en la
+vida real cuando el desarrollo capitalista hace estallar en todas partes
+los milenarios equilibrios locales entre el sistema de las necesidades de
+consumo y el de las capacidades de producción; cuando, en la empresa
+imperialista, el Hombre europeo hace la experiencia de lo relativo de su
+humanidad. Aparece como problema teórico, tratado explícita o implíci­tamente 
+en positivo, junto con las “ciencias sociales”, que en los tiempos
+de Marx estaban apenas en sus comienzos. Por esta razón, el estado de
+incógnita en que —pese a los Manuscritos de París (1844)— permanece
+el contenido del concepto de “forma natural”, no debe ser visto como el
+indicio de un límite que cierra, sino como el de uno que abre al discurso
+de Marx hacia los nuevos problemas de la política contemporánea. La re­construcción 
+de ese contenido y de su efectividad crítica para el presente
+es posible. Su lugar y su medida están allí: demarcados por la radicalidad
+de la crítica de Marx al capitalismo. Esta llega explícitamente hasta el
+cuestionamiento de la forma en que tanto la sujetidad como la objetividad
+se constituyen en la época moderna, y plantea por tanto una idea de “re­volución” 
+que, lejos de quedar atrapada en las ilusiones del siglo pasado,
+implica una propuesta cuya plena validez sólo parece mostrarse a la luz
+de las desilusiones del presente.
+El concepto de “producción general” que Marx emplea en su “crítica
+de la economía política” implica la idea de que la misma, ampliada hasta
+sus propios límites, es decir, considerada como un proceso completo de re­producción 
+social, posee una estructura esencial, trans-histórica, supraétnica, 
+cuya presencia sólo adquiere actualidad o realidad en la medida
+en que se encuentra actualizada o dotada de forma dentro de un sinnú­mero 
+de situaciones particulares o conjuntos específicos de condiciones
+étnicas e históricas. Cada una de las formas en las que se ha actualizado
+esa estructura constituye la identidad o figura concreta de una sociedad 92.
+Para Marx, el modo en que esta actualización tiene lugar en la situación
+capitalista difiere radicalmente del modo en que acontecía en épocas an­teriores 
+de la historia y debería diferir también del modo que podrá tener
+en un futuro deseable. Mientras en las situaciones precapitalistas la for­mación
+
+92
+K. Marx, Grundrisse der Kritik der politischen Ökonomie, pp. 7, 22.
+
+de la estructura era simple, en la época capitalista ella es doble y
+por tanto compleja: no obedece únicamente al condicionamiento “natural”
+a partir de lo étnico y lo histórico, sino que se somete también a un condi­cionamiento 
+“seudo-natural”, que proviene de la organización económica
+constituida en “sujeto”.
+Según Marx, el proceso de reproducción social incluye, como función
+característica de la existencia humana concreta, una organización parti­cular 
+del conjunto de relaciones interindividuales de convivencia. Es de­cir, 
+implica una clasificación de los individuos sociales según su interven­ción 
+tanto en la actividad laboral como en la de disfrute; implica por tanto
+una definición de las relaciones de propiedad, una distribución del objeto
+de la riqueza social —medios de producción y bienes para el disfrute—
+entre los distintos miembros del sujeto social global. Lo que distingue al
+modo de reproducción social capitalista es el hecho de que sólo en él esta
+organización de las relaciones de convivencia deja de ser un orden puesto
+por la formación “natural” de la estructura y se establece como una fuen­te 
+autónoma de determinación —de sobredeterminación— de la figura
+concreta de la sociedad 93. Las relaciones de producción/consumo aparecen
+aquí como una entidad realmente exterior al sujeto, dotada de capacidad
+formadora. Enajenándose de la vida en que se constituye la “forma na­tural” 
+de la sociedad, se vuelven sobre ella y la obligan a de-formar su
+actualización de la estructura del proceso de reproducción social.
+Para Marx, el modo de reproducción capitalista determina de manera
+dual la concreción de la vida social: como donación de forma primaria, de
+orden “social natural”, y como donación de forma secundaria, carente de
+necesidad “social-natural”, en torno a lo que él llama el “proceso autonomizado 
+de formación y valorización del valor”. Determinación dual y por
+ello compleja, pues según él la figura concreta de las sociedades capitalis­tas 
+es el resultado de un conflicto y un compromiso entre estas dos ten­dencias 
+formadoras que son contradictorias entre sí 94. La primera, propia
+de la constitución social “natural”, tiene su meta en una imagen ideal de
+la sociedad como totalidad cualitativa; la segunda, en cambio, impuesta
+por las relaciones de producción/consumo cosificadas como “dinámica abs­tracta 
+del valor valorizándose” tiene por meta justamente la acumulación
+de capital. La meta de la primera, la única que interesa al sujeto social
+
+93
+“... ein für sich seiendes gesellschaftliches Verhältnis...”, cf. ibid., p. 299.
+
+94
+“La fuerza social natural del trabajo no se desarrolla en el proceso de valorización
+en cuanto tal, sino en el proceso real de trabajo.” K . Marx, Kapitel VI. Resultate
+aus der unmittelbaren Produktionsprozess, p. 491 [ed. esp.: El capital, Libro I, 
+ca­pítulo VI (inédito). Resultados del proceso inmediato de producción, México, Siglo
+XXI, 1971, p. 98].
+
+en cuanto tal, sólo puede ser perseguida en el capitalismo en la medida
+en que, al ser traducida a los términos que impone la consecución de la
+segunda, es traicionada en su esencia.
+Como puede verse, el concepto de “forma natural” de la vida social,
+que incluye el de “valor de uso” de los objetos con los que ella tiene que
+ver, ocupa un lugar central en el discurso de Marx. Tanto la crítica par­ticular 
+del comportamiento y el discurso económico de la época capita­lista 
+como aquella otra, general, la crítica de la totalidad de la vida so­cial 
+moderna, resultan impensables sin este concepto de contraste que
+permite al discurso teórico precisar el sentido de su trabajo crítico. Sin
+embargo, aunque omnipresente en el texto de El capital, el concepto de
+“forma natural” queda como un esbozo y una indicación; es en esta ca­lidad 
+como se hace manifiesto en sus efectos teóricos particulares. Su
+contenido es más una incógnita que una solución implícita. El presente
+trabajo reúne en una primera aproximación una serie de ideas, algu­nas 
+de ellas presentes ya en la discusión marxista contemporánea, que
+pueden ayudar a su formulación adecuada. Son ideas que se agrupan
+en referencia a una distinción entre lo que sería propiamente la forma
+social-natural del proceso de vida humano, como realidad que —incluso
+en su permanencia trans-histórica y supra-étnica— implica necesaria­mente 
+un grado elemental de concreción, y lo que sería la estructura
+fundamental de dicho proceso, como esencia necesariamente abstracta
+que sólo se vuelve efectiva a través de una concretización, cuyo paso
+inicial está justamente en la forma social-natural. Por lo demás, todas
+ellas son ideas que se entienden como variaciones sobre un solo tema: la
+libertad como hecho característico de la vida humana.
+
+I. Vida animal y vida social
+
+a. La estructura del comportamiento vital
+
+La “forma natural” del proceso de reproducción social consiste en una
+actualización peculiar de su estructura general. A su vez, esta estructura
+es, en sus rasgos más elementales, similar a la estructura del proceso de
+reproducción de la materia viviente del organismo vivo. Considerado en
+un cierto nivel primario, el comportamiento del ser humano es igual al
+comportamiento del animal, en tanto que como ser vivo ha actualizado
+de manera más completa las posibilidades del comportamiento material
+que llamamos “vida”. Este comportamiento de un sector de la naturaleza
+se caracteriza, como lo explica Hegel y lo menciona Marx, por la organi­zación 
+autónoma de un conjunto de elementos minerales, como una to­talidad 
+parcial que se enfrenta a la totalidad global de la naturaleza en
+un proceso “metabólico” 95, la totalidad orgánica actúa sobre una zona o
+territorio de la naturaleza para recibir una reacción de ésta favorable al
+mantenimiento de su principio de organización 96.
+
+Diagrama 1
+
+El comportamiento vital I
+
+Un principio autónomo de organización de la materia (K) que sólo se
+cumple en una multiplicidad de organismos singulares (SV...SVn) y que
+sólo se mantiene con la reproducción cíclica de cada uno de ellos mediante
+la acción (a) de los mismos sobre un medio natural (M en N) y la integra­ción 
+de las reacciones favorables (r) provenientes de éste. La estructura
+de este comportamiento de la materia viva tiene una meta que es eviden­te: 
+el mantenimiento de la integridad del organismo singular en calidad
+de representante o ejemplar de la identidad de su especie; el manteni­miento, 
+en definitiva, de un peculiar principio autónomo de totalización
+de la materia que, al mismo tiempo que re-legaliza, acata y perfecciona
+la legalidad general de la naturaleza. Es a la estructura y el telos de este
+comportamiento natural a lo que Marx hace referencia en su afirmación
+materialista de la naturalidad profunda del ser humano.
+
+95
+Cf. K. Marx, Das Kapital, I, cap. V.
+
+96
+Hegel, en su terminología particular, llega a decir que, con el comportamiento na­tural 
+llamado “vida” aparece “el individuo”, que tiene en sí mismo un “principio de
+autoconfiguración”, y que se enfrenta como “sujeto” al “mundo objetivo”, el que le
+sirve de “condición” de su existencia y al que “priva de su estado propio al conver­tirlo 
+en un medio suyo”, al “darle su propia sujetidad como sustancia”. Cf. G. W. F.
+Hegel, Encyclopädie der philosophischen Wissenschaften, 1817, § 255-59.
+
+Cabe añadir que el comportamiento vital que Marx tiene en cuenta en
+esta afirmación es el comportamiento de la vida animal más perfecciona­da, 
+aquel que lleva al grado máximo de complejidad la estructura general
+de la vida [diagrama 2],
+Este sujeto animal es gregario (SAG): su singularidad, su “individua­lidad 
+abstracta”, está repartida en un conjunto de versiones especializa­das 
+(Sa...Sn) que se acoplan unas con otras en las diferentes funciones re­productivas. 
+(La abeja como reina, obrera y zángano.) La coexistencia de
+los distintos miembros del sujeto gregario se encuentra posibilitada por
+un determinado sistema elemental de comunicación por señales 97. (Las
+figuras que la abeja compone con la trayectoria de su vuelo.) El resultado
+de la acción de ese sujeto, la reacción de la naturaleza, se concentra en
+una transformación de ésta que se presenta como objeto independiente,
+como un bien de la naturaleza producido por el sujeto (B/P). (La miel.)
+La relación entre el sujeto animal y el territorio (T) natural: acción de S,
+reacción de N, se encuentra posibilitada por un bien producido especial­mente, 
+por un objeto de efectividad intermedia (I) (La colmena.).
+
+Diagrama 2
+
+El comportamiento vital II
+
+b. El telos característico de la vida social
+
+Trasfondo prehistórico de la hominización o base vigente de la hu­manidad 
+actual, la animalidad es solamente la sustancia con la que se
+
+97
+“...no es un lenguaje, es un código de señales.” É. Benveniste, “ Communication
+animale et langage humain”, en Problémes de linguistique générale, París, 1966,
+p. 62 [ed. esp.: “Comunicación animal y lenguaje humano”, en Problemas de lin­güística 
+general, I, México, Siglo XXI, p. 62].
+
+forma la vida propiamente social. La mejor manera de precisar concep­tualmente 
+la idea que tiene Marx de la peculiaridad del ser humano
+o social es probablemente mostrar, siguiendo su discurso, la diferencia
+esencial que hay entre el proceso de reproducción animal y el proceso de
+reproducción social.
+No se trata solamente de una differentia specifica: el ser humano no
+es sólo un animal especialmente dotado —de razón, de lenguaje, de sen­tido 
+civil, práctico, religioso, etcétera—; o si lo es, sus atributos caracte­rísticos 
+implican un salto más allá de la cualidad estrictamente animal 98.
+Todos aquellos comportamientos que parecen ofrecer la clave de la de­finición 
+de lo humano —el usar y fabricar instrumentos lo mismo que
+distinguir entre lo justo y lo injusto, el imaginar lo mismo que el jugar y
+el mentir, etcétera— pueden ser comprendidos a partir de un descripción
+del proceso de reproducción del ser humano como un proceso en el que la
+reproducción de su materialidad animal se encuentra en calidad de porta­dora 
+de una reproducción que la trasciende, la de su materialidad social.
+El telos estructural del comportamiento “vida” es la reproducción de
+un principio particular de organicidad para un material mineral, me­diante 
+el mantenimiento de la integridad física de los distintos organismos 
+singulares en los que se actualiza ese principio. En el caso de los ani­males 
+de individualidad gregaria, este principio incluye necesariamente
+un criterio especial de repartición, ubicación o individuación diferencial
+de todos los miembros o ejemplares del sujeto gregario dentro del siste­ma 
+de funciones necesarias para su reproducción global. El conjunto de
+las relaciones de oposición y complementariedad que conectan entre sí los
+distintos miembros del sujeto gregario —y que constituye por lo tanto su
+identidad como especie animal— consiste en un ordenamiento de los mis­mos 
+que se repite incansablemente de un ciclo reproductivo a otro, de un
+milenio a otro, como manifestación disciplinaria de la estrategia óptima
+de supervivencia que se halla congelada en el principio de organicidad 99.
+
+98
+Discontinuidad en la continuidad. Continuidad en la discontinuidad. R. Cailloix:
+“El hombre es un animal como los otros, su biología es la de los otros seres vivos,
+está sujeto a todas las leyes del universo... ¿Por qué suponer a priori que preten­der 
+encontrar en otros lados las propiedades de su naturaleza o, inversamente,
+encontrar en él las leyes que se observa regir a las otras especies es necesaria­mente 
+una manía, una ilusión o un espejismo?” Méduse et Cié, París, 1960, p. 20.
+M. Heidegger; “... incluso aquello que, en comparación con el ‘animal’ adjudicamos
+al Hombre como animalitas, se funda en la esencia de la ek-sistencia.” “Brief über
+den Humanismus”, en Platons Lehre von der Wahrheit, Berna, 1947, p. 67.
+
+99
+“... inscripción en el organismo de toda solución probada, modificación del cuerpo
+válida para miles de siglos; perfección del órgano, de las antenas, de los palpos, 
+de los ojos multifacéticos, sin contar la infalibilidad sonambulesca del instinto.”
+R. Cailloix, op. cit, p. 163.
+
+La peculiaridad del comportamiento humano social aparece cuando
+se tiene en cuenta aquello que en su estructura correspondería a este
+principio de identificación global y de individuación diferencial, o prin­cipio 
+de constitución de las relaciones que conectan entre sí a los miem­bros del sujeto.
+Aunque su presencia y vigencia es también necesaria por naturaleza
+también en el proceso de reproducción social, la determinación de su fi­gura 
+concreta está sin embargo entregada a la libertad 100. En esto, el ser
+humano está privado del amparo que otorga al animal el seno omniabarcante 
+de la legalidad natural 101. Los rasgos definitorios de su identidad
+no están inscritos en el principio general de su organicidad ni tienen por
+tanto una vigencia instintiva. Su identidad está en juego: no es un hecho
+dado, tiene que concretarse siempre nuevamente. Lo que ella fue en un
+ciclo reproductivo es un antecedente que condiciona pero no obliga a lo
+que habrá de ser ella en un ciclo posterior.
+El conjunto de relaciones de interdependencia entre los miembros del
+sujeto social requiere una figura concreta que debe ser sintetizada por el
+propio sujeto social. La socialidad misma de éste existe como materia con
+la que él, como totalización de individuos sociales, construye su identidad
+y la identidad diferencial de sus miembros. El ser sujeto, la sujetidad,
+consiste así en la capacidad de constituir la concreción de la socialidad.
+El telos estructural que anima al comportamiento del ser humano o
+social diferente por tanto esencialmente de aquel que presenta la dimen­sión 
+puramente animal de la naturaleza. No se trata de la conservación
+de un principio de socialidad que estuviese ya dado en la organicidad
+animal, sino de la fundación y re-fundación constante de ese principio.
+Este sentido peculiar de la reproducción social hace del enfrentamiento
+del sujeto con la naturaleza —que ahora no es sólo externa o del mundo
+
+100 
+“La libertad concebida como un trascender no es solamente una ‘especie’ parti­cular 
+de causa, sino el origen de toda causa. Libertad es libertad para causar.”
+M. Heidegger, Vom Wesen des Grundes (1929), Frankfurt a. M., 1955, p. 44.
+
+101 
+“L’homme est libre parce qu’il n’est pas soi mais présence à soi. L’être qui est ce
+qu’il est ne saurait être libre. La liberté, c’est précisément le néant qui est été au
+coeur de l’homme et qui contraint la realité-humaine à se faire, au lieu d’être...
+pour la realité-humaine, être c’est se choisir: rien ne lui vient du dehors, ni du
+dedans non plus, qu’elle puisse recevoir ou accepter. Elle est entiérement abandonée, 
+sans aucune aide d’aucune sorte, à l’insoutenable nécessité de se faire être
+jusque dans le moindre détail. Ainsi, la liberté n’est pas un être: elle est l’être
+de l’homme, c’est-à-dire son néant d’être.” Jean-Paul Sartre, L’être et le néant,
+París, Gallimard, 1943, p. 516.
+
+objetivo, sino también interna o del cuerpo sujetivo— un enfrentamiento
+indirecto, mediado por el enfrentamiento del sujeto con su propia socia­bilidad 102. 
+La estructura misma del proceso reproductivo resulta ser así
+una estructura dual y fundamentalmente contradictoria. Al estrato en
+que la reproducción es consecución y absorción de reacciones favorables
+provocadas por el sujeto en la naturaleza se le sobrepone otro, en el que
+la misma noción valorativa de “favorable” está en cuestión, el estrato en
+el que el sujeto define y redefine su propia identidad.
+Producir y consumir transformaciones de la naturaleza resulta ser,
+simultáneamente y sobre todo, ratificar y modificar la figura concreta
+de la socialidad. Dos procesos en uno: en la reproducción del ser huma­no, 
+la reproducción física de la integridad del cuerpo comunitario del
+sujeto sólo se cumple en la medida en que ella es reproducción de la
+forma política (polis) de la comunidad (koinoníá) 103. Proceso dual que
+es siempre contradictorio, por cuanto su estrato “político” implica ne­cesariamente 
+una exageración (hybris), un forzamiento de la legalidad
+propia de su estrato físico 104.
+
+II. Trabajar y disfrutar
+
+El sentido peculiar del comportamiento reproductivo del ser social
+(zóon politikón) se manifiesta en la estructura que interconecta a los dis­tintos 
+elementos de este proceso y en la constitución misma de ellos. Los
+dos modos diferentes en que puede analizarse esta interconexión comple­ja: 
+por un lado la fase productiva y por otra la fase consuntiva, se consti­tuyen 
+necesariamente como momento de objetivación, la primera, y como
+momento de sujetivación, la segunda 105.
+Los círculos mayores representan, cada uno, un momento reproduc­tivo 
+en abstracto (t1, t2), en lo que éste tiene de relación: sujeto socialmedio 
+natural. (La reproducción del sujeto como proceso que lo relaciona
+consigo mismo y como donación de forma a su cuerpo o a la naturaleza
+interior queda fuera de esta representación esquemática.)
+La doble presencia de la relación entre factor sujetivo y factor obje­tivo 
+(S-N) intenta mostrar por separado las dos fases, que en realidad
+integran una totalidad, del momento reproductivo: la fase de trabajo,
+
+102
+Cf. G. Lukács, “Die Verdinglichung und das BewuBtsein des Proletariats”, en
+Geschichte und Klassenbewuβtsein, Berlín, 1923, p. 203.
+
+103 
+Cf. Aristóteles, Política, A , 1252a.
+
+104 
+Cf. G. Bataille, La part maudite, París, 1967, pp. 90-91.
+
+105 
+Cf. K. Marx, Grundrisse..., p. 10.
+
+producción o consumo productivo y la fase de disfrute, absorción o con­sumo 
+improductivo. La relación entre una fase y otra queda indicada
+por el elemento Op, objeto práctico, o B/P, bien/producido (o producto
+con valor de uso), que constituye el resultado de la primera y la condi­ción de la segunda.
+La línea que atraviesa los círculos mayores y que los conecta entre sí
+mediante el elemento Op representa el flujo de los bienes producidos, co­mo 
+realidad que asegura la continuación del proceso o la repetición de los
+momentos reproductivos.
+Los elementos B (arriba) y P (abajo) señalan: el primero, la presen­cia 
+de bienes o condiciones con valor de uso espontáneo o directamente
+naturales; el segundo, la de productos o transformaciones accidentales
+que el sujeto provoca en la naturaleza (productos que, en ciertos casos,
+afectan desfavorablemente al sujeto y resultan ser así “destrucciones”
+de la naturaleza).
+
+Diagrama 3
+
+La reproducción social como producción/consumo de objetos
+
+El círculo de elementos: a, b, c, n en torno a S tanto en la fase produc­tiva 
+como en la consuntiva muestra respectivamente la presencia de un
+sistema de capacidades y un sistema de necesidades en el sujeto social.
+Igualmente los elementos i y o muestran la doble composición del
+factor objetivo, tanto en la producción como en el consumo; él es, por
+una parte, campo instrumental mediador y, por otra, objeto de la acción
+o la aceptación del sujeto (materia prima del trabajo y materia prima
+del disfrute).
+El sujeto social, al transformar el material natural, no puede ser el
+simple ejecutor de un plan que regiría sobre él desde sus propias ma­nos, 
+por estar confundido con su composición orgánica. Debe elegir la
+forma a la que conduce su transformación del material, y debe hacer­lo 
+porque la forma que tiene un bien/producido no es nunca neutral o
+inocente; tiene siempre un valor de uso concreto que determina, a su
+vez, la forma que habrá de tener el sujeto que lo consuma. El trabajar
+tiene una dimensión poiética; su dar forma es un realizar, dice Marx 106.
+Es un inventar y un llevar a cabo un proyecto; proyecto que sólo inme­diatamente 
+es el de la construcción de una cosa, que indirectamente
+pero en definitiva es el de la construcción del sujeto mismo. Al usar esa
+cosa y no otra que pudo estar en su lugar, el sujeto no sólo satisface su
+necesidad general —animal— de ese tipo de cosas, sino su necesidad
+de la forma de esa cosa concreta. En el proceso de reproducción social,
+el carácter de auto-realización (del sujeto) inspira la realización misma
+del producto; invade todas y cada una de las realizaciones del proceso
+de trabajo: Producir es objetivar, inscribir en la forma del producto una
+intención transformativa dirigida al sujeto mismo, en tanto que consu­midor; 
+intención que se sujetiva o se hace efectiva en el momento en que
+éste usa (disfruta o utiliza) de manera adecuada ese producto en cali­dad 
+de bien, es decir, el momento en que, al aprovechar la cosa, absorbe
+la forma de la cosa y se deja transformar por ella.
+En tanto que agente del disfrute o consumidor improductivo, el sujeto
+social tampoco es un simple receptor de la reacción favorable que el tra­bajo 
+ha podido provocar en la naturaleza. Debe discernir y elegir entre
+las distintas posibilidades de uso adecuado que él puede dar al bien/pro­ducido; 
+debe decidir el momento y la intensidad con que le va a afectar la
+forma de la cosa, la medida y la manera en que hace caso a la intención
+transformativa que ella trae consigo.
+
+a. El sujeto
+
+La sujetidad del sujeto social reside en su capacidad de dar una for­ma 
+identificada a su socialidad, capacidad que ejerce fundamentalmente
+al reproducir su integridad física como organismo animal gregario. Dar
+forma a la socialidad quiere decir ubicar a los distintos miembros que lo
+
+106 
+K. Marx, Das Kapital, loc. cit.
+
+componen dentro de un sistema de relaciones de convivencia o, lo que es
+lo mismo, de co-laboración y co-disfrute. El conjunto de identidades dife­renciales 
+o diacríticas de los múltiples individuos sociales dentro de este
+sistema de relaciones de producción y consumo constituye la identidad
+global del sujeto. Dar forma a la socialidad implica, por tanto, instaurar
+—más allá del acoplamiento puramente natural— un compromiso, un
+equilibrio siempre inestable entre un sistema definido de necesidades
+de disfrute y un sistema definido de capacidades de trabajo.
+El modo en que este último responde y cuestiona al primero, la ma­nera 
+en que los dos ceden y exigen para cerrar su compromiso, rige fun­damentalmente 
+a partir del proceso de circulación de los innumerables
+objetos singulares que han sido producidos y van a ser consumidos. En
+este “cambio de manos” por el que todos ellos deben pasar al abandonar
+a su productor y llegar a su consumidor se encuentra siempre vigente
+un proyecto de distribución, que los reparte entre el conjunto de los individuos 
+sociales 107. Este proyecto es el que califica a ciertos intentos
+de entregar productos como aceptables o socialmente productivos y sólo
+a ciertos requerimientos de bienes como válidos o susceptibles de ser
+satisfechos por la sociedad. La “politicidad” del proceso de reproducción
+social se muestra así en la capacidad que tiene el sujeto de establecer y
+modificar esa “armonía” entre su sistema de capacidades y su sistema
+de necesidades, mediante la determinación del acceso efectivo de los individuos 
+sociales, como productores y como consumidores, al bien/pro­ducido global.
+La doble adscripción de todos los miembros del sujeto social dentro
+de esos dos sistemas —como individuos necesitados y como individuos
+capaces—, que los interrelaciona socialmente para el consumo y la pro­ducción, 
+es la que, en su unidad y compromiso, confiere a cada uno de
+ellos su identidad individual. A sí mismo es una ubicación peculiar del
+conjunto de individuos sociales dentro del sistema armonizado de necesi­dades 
+y capacidades la que determina la identidad, la forma peculiar de
+la socialidad o conjunto de relaciones intersujetivas de convivencia.
+Producir y consumir objetos resulta ser, para el sujeto social, un
+constante reproducir —instaurar, ratificar o modificar— la forma de las
+relaciones de producción y consumo. Siempre en proceso de re-sintetizarse 
+—aunque sólo sea para reafirmarse en lo que es— , la identidad
+del sujeto social está permanentemente en juego, lo mismo como identi­dad 
+global de la comunidad (politiké koinonía) que como identidad dife­rencial 
+de cada uno de sus individuos sociales. Si el sujeto global tiene
+
+107 
+K, Marx, Grundrisse..., p. 17.
+
+que hacerse a sí mismo, en el sentido de que debe darse una identidad
+“política” que no ha recibido por naturaleza, los individuos sociales que
+lo componen son también, necesariamente, partícipes de ese destino.
+Su ubicación en el sistema de relaciones de convivencia también está,
+en esencia, siempre en juego. Todo acto suyo implica una intervención
+en el proceso que los adscribe en determinadas funciones productivo/
+consuntivas y que los identifica diferencialmente al relacionarlos unos
+con otros. Los individuos sociales son sujetos “individuales concretos”
+—y no “abstractos” como los ejemplares gregarios—, en la medida en
+que todo acto de cada uno de ellos afecta, directamente o mediante una
+transformación de la naturaleza, a su propia identidad y a la identidad
+de los demás. Todo hacer individual es, en este sentido, un hacerse, un
+hacer a los otros y un dejarse hacer por ellos 108. En el sujeto social (po­lis), 
+todos sus miembros son sujetos (polites) por cuanto viven su repro­ducción 
+individual como un transformar recíproco y necesario de sus
+respectivas identidades y como un transformar colectivo de la identidad
+social global.
+
+b. El objeto
+
+La objetividad del objeto reside en su practicidad, en su carácter de
+elemento natural integrado en un peculiar proceso de reproducción vital
+que, al mismo tiempo que es físico, es también “político”. Como simple
+“medio natural” del organismo vivo, la naturaleza está ya integrada en
+un proceso de reproducción; su totalidad ha sido re-totalizada según la
+perspectiva de la acción que ejerce sobre ella el organismo que se repro­duce. 
+La dimensión infinita de la naturaleza se encuentra delimitada y,
+en su limitación, potenciada en tanto que conjunto de “condiciones de
+vida”; éstas, (trans-)formadas por el organismo-“sujeto”, se convierten
+en “objetos” favorables u hostiles para su supervivencia. La forma que
+aparece en esta (trans-)formación, y que en el proceso puramente ani­mal 
+es simple plasmación de un programa de actividad inherente a la
+estructura instintiva del “sujeto”, es en cambio, en el proceso de repro­ducción 
+social, el vehículo del proyecto de auto-realización del sujeto.
+Aquí, la practicidad o forma del objeto es elegida entre muchas posibles,
+y su elección está encaminada a provocar un cambio definido en el suje­to 
+que vaya a hacerle caso al consumir adecuadamente el objeto. La for­ma 
+del objeto es un lugar de doble perspectiva; allí la producción vuelve
+
+108 
+Cf. J.-P. Sartre, Critique de la raison dialectique, París, 1960, pp. 182 ss.
+
+objetiva una pretensión transformativa dirigida al sujeto de disfrute, y
+a partir de ahí mismo el consumo vuelve sujetiva (des-objetiva) esa pre­tensión 
+aceptándola según su propia disposición.
+
+Diagrama 4
+
+La forma del objeto práctico
+
+estrato natural
+
+estrato formado
+
+plano del valor
+para el uso
+
+plano del valor
+por el trabajo
+
+La pertenencia del objeto social a un proceso de reproducción en el
+cual el estrato físico de su cumplimiento se halla refuncionalizado por
+un estrato “político” no se revela únicamente en la experiencia global de
+él como totalidad objetiva dotada de una intencionalidad distributiva. Ya
+como objeto producido para el disfrute o consumo improductivo, pero es­pecialmente 
+como objeto producido para el trabajo o consumo productivo,
+el objeto social posee una forma que, lo mismo para ser compuesta que
+para ser tenida en cuenta, requiere de un sujeto libre o en proceso de autoconstituirse.
+Resultado, por una parte, y condición, por otra, de la vida de indivi­duos 
+sociales, el objeto práctico es la instancia mediadora que acompaña
+en mayor o menor medida toda esa actividad de hacerse recíproco que
+caracteriza a dichos individuos como individuos concretos. Por esta ra­zón, 
+la estructura del objeto práctico o social implica un doble nivel o do­ble 
+estrato de objetividad 109. En el primero, puramente natural, el objeto
+sería la entidad mediadora de la reproducción solamente animal de los
+
+109 
+“Es probable que todo análisis científico, de cualquier objeto que sea... implique
+necesariamente la distinción entre dos estratos o jerarquías, que pueden ser
+identificadas como forma y sustancia, en la acepción saussuriana más general
+de los términos.” L. Hjelmslev, “La stratification du langage” (1954), en Essais
+linguistiques, París, 1971, p. 55.
+
+productores/consumidores, de aquel funcionamiento al que se reduciría
+la reproducción social si pudiera dejar de serlo. En este estrato apenas
+imaginable, puesto que sólo existe ya como trascendido, el objeto sería
+naturaleza transformada según un conjunto de capacidades y necesida­des 
+instintivas del sujeto. En el segundo nivel, en el cual el primer estra­to 
+se encuentra en tanto que formado o refuncionalizado, el objeto es la
+entidad que posibilita esa reproducción física o animal del sujeto y los in­dividuos 
+sociales, pero en lo que ella tiene de sustrato de la reproducción
+propiamente “política” o intersujetiva de uno y otros.
+Lo característico del objeto social en su doble estrato de objetividad
+se muestra en el hecho de que ésta sólo se sintetiza efectivamente en el
+encuentro de la producción con el consumo. El perfil definitivo de la prac­ticidad 
+o forma objetiva se juega dentro de la doble tensión que proviene,
+por un lado de la intención de forma propuesta por el trabajo en que ella
+fue compuesta y, por otro, de la expectativa de forma, dispuesta por el
+consumo en que ella habrá de ser aceptada 110. La forma del objeto es así
+biplanar o de doble aspecto; corresponde a un producto que sólo es tal en
+la medida en que es un bien (lo que no excluye, por supuesto, la posibili­dad 
+de que sea también un “mal”); es decir, a una cosa cuya importancia
+o valor para el uso concreto remite necesariamente a una importancia o
+valor por el trabajo concreto.
+En el uso de los medios de producción —bienes intermedios, produ­cidos 
+no para el disfrute directo, sino para el consumo productivo— , la
+copertenencia de consumo y producción se da como plena igualdad; consu­mirlos 
+es producir, producir es consumirlos. Dar forma con unos medios
+de producción es lo mismo que sacar esa forma de ellos mismos 111. Sin em­bargo, 
+este dar/sacar forma que tiene lugar en el consumo productivo no es
+una mera ejecución, como en el mundo animal. Los medios de producción
+no compelen al sujeto a repetir con ellos siempre una misma operación,
+a lograr siempre un mismo resultado. Su efectividad no está atada a la
+plasmación de una forma singular, es, por el contrario, una efectividad
+abierta: permite la composición de distintas versiones de una forma gene­ral, 
+de todo un conjunto de formas singulares diferentes. Dentro de ciertos
+límites, el sujeto (“tool making animal”) puede descubrir en los medios de
+producción maneras nuevas de utilizarlos, realizar con ellos formas obje­tivas 
+imprevistas. Puede incluso —puesto que también los medios de pro­ducción 
+son bienes producidos— transformarlos o sustituirlos: construir
+otras fuentes de determinación de lo que habrá de ser producido.
+
+110 
+K. Marx, Grundrisse..., p. 14.
+
+111 
+M. Heidegger, Brief über den Humanismus, p. 53.
+
+Entre los medios que intervienen en el consumo productivo hay unos
+que sólo ofrecen a éste una indicación de forma para sí mismos: las ma­terias 
+primas u objetos de trabajo; hay otros, en cambio, que despliegan
+ante el trabajo mismo todo un conjunto de posibilidades de dar forma,
+entre las que él puede elegir para transformar las materias primas: son
+los instrumentos.
+La forma más acabada del objeto social es sin duda la del instrumen­to. 
+En ella, las dos tensiones que determinan toda forma objetiva —la
+pretensión de una forma para el sujeto y la disposición de éste a adoptar­la— 
+permanecen en estado de enfrentamiento, en un empate inestable
+que puede decidirse de diferentes maneras en cada caso. La proposición
+de una acción formadora sobre las materias primas, inscrita en la forma
+instrumental como estructura técnica, no sólo permite —como en todo
+objeto social— sino que exige, para ser efectiva, una voluntad de acción
+formadora que la asuma y la haga concreta. La dinámica transformadora
+general que el instrumento trae consigo necesita ser completada y singu­larizada 
+por el trabajo 112.
+La duración de un instrumento o un conjunto particular de instru­mentos 
+asegura la continuidad en el tiempo de la producción y el consu­mo 
+de una determinada clase de objetos prácticos. Es siempre el medio
+de una transoperación productiva o consuntiva que involucra a distintos
+individuos sociales sucesivos. Pero ningún instrumento existe de manera
+aislada; en realidad, hace parte de un todo en el que su efectividad parti­cular 
+se incluye y se define diferencialmente. Es siempre el medio de una
+cooperación productiva o consuntiva en la que participan distintos indi­viduos 
+sociales relativamente cercanos entre sí. La forma de cada objeto
+instrumental se caracteriza así tanto porque perdura a lo largo de una
+serie de ciclos reproductivos de la sociedad como porque co-determina,
+dentro de un mismo ciclo reproductivo, la forma de los demás objetos ins­trumentales. 
+Es una creación del pasado que permanece actuante en las
+realizaciones productivo/consuntivas de un sinnúmero de presentes reno­vados 
+y es asimismo una creación localmente circunscrita que actúa por
+contigüidad espacial en un contorno más o menos amplio de otras reali­zaciones 
+productivo/consuntivas.
+El conjunto de los instrumentos constituye una totalidad compleja,
+organizada temporal y espacialmente: es el campo instrumental de la
+sociedad. Las innumerables efectividades particulares de todos los ob­jetos 
+instrumentales se unifican en él como una sola efectividad global.
+
+112 
+“El trabajo tiene que apoderarse de estas cosas, despertarlas del mundo de los
+muertos, convertirlas de valores de uso sólo potenciales en valores de uso efecti­vos 
+y operantes.” K. Marx, Das Kapital, cap. V.
+
+La efectividad del campo instrumental no se reduce a su productividad,
+ésta es sólo su determinación cuantitativa: el grado en que el instru­mento 
+global capacita al sujeto para dominar o transformar la natu­raleza. 
+La efectividad es el contenido cualitativo de la productividad;
+ella instaura todo un horizonte definido de posibilidades de forma para
+el objeto global de producción y consumo. En este sentido, al presentar
+ciertas posibilidades de forma y dejar de lado otras, al estar “especia­lizada” 
+en una dirección axiológica determinada, la efectividad global
+misma posee una forma peculiar, la que decanta en la estructura tecno­lógica 
+del campo instrumental.
+La necesidad de poseer una forma peculiar le viene al campo instru­mental 
+del hecho de que su función es la de mediar o posibilitar, en la
+reproducción física del sujeto, su reproducción “política”. El horizonte de
+posibilidades de forma que él delimita para el objeto es, en definitiva, un
+horizonte de posibilidades de autotransformación para el sujeto. El medio
+instrumental conecta lo que el sujeto ha sido en el pasado con lo que él
+puede ser en el futuro: asegura la continuidad histórica de su existen­cia 113. 
+Objetivada en la estructura tecnológica, es la propia identidad del
+sujeto la que se pone en juego, la que entrega y recibe su forma peculiar a 
+través del campo instrumental.
+
+III. Reproducción social y semiosis
+
+El sentido característico del proceso de reproducción como proceso
+propiamente humano o social -el cumplimiento de su telos físico en
+tanto que soporte de un telos “político”— no se manifiesta únicamen­te 
+en la estructura de éste, en su funcionamiento y en la constitución
+de los factores (sujetivo y objetivo) que intervienen en él. Se manifiesta
+igualmente tanto en la presencia de toda una dimensión de la existen­cia 
+productivo/consuntiva que no es posible encontrar en el universo na­tural, 
+una dimensión reproductiva propiamente semiótica, como en la
+de un proceso especial de producción/consumo propio de esa dimensión
+y que es también exclusivo del universo total: el lenguaje o proceso semiótico independiente 114.
+
+113 
+J-P. Sartre, Critique..., pp. 250 ss.
+
+114 
+Cf. F. de Saussure, Cours de linguistique génerale, París, 1972, pp. 33 y 101.
+
+a. La producción/consumo y la comunicación/interpretación
+
+Transformar la naturaleza sirviéndose del medio de producción es pa­ra 
+el sujeto productor un intento de dar forma al sujeto del consumo; para
+éste, aceptar, sirviéndose del medio de consumo, la forma de la natura­leza 
+convertida en bien es un dejarse dar forma. En la forma del objeto,
+el sujeto de la producción ha cifrado, sobre la sustancia del mismo (sobre
+el alimento que hay en un comestible, el resguardo que ofrece un espacio
+habitable, la ayuda que da un servicio, etcétera), una intención transfor­mativa 
+que el sujeto consumidor descifra al absorber adecuadamente esa
+sustancia. La apropiación de la naturaleza por el sujeto social es simultá­neamente 
+una autotransformación del sujeto. Producir y consumir objetos
+es producir y consumir significaciones. Producir es comunicar (mitteilen),
+proponer a otro un valor de uso de la naturaleza; consumir es interpretar
+(auslegen), validar ese valor de uso encontrado por otro. Apropiarse de la
+naturaleza es convertirla en significativa 115.
+El comunicante (C) y el interpretante (I) se encuentran en dos situa­ciones 
+diferentes: la primera abierta hacia el referente exterior a ambas
+(Rx), la segunda cerrada frente a él. Entre las dos situaciones existe un
+territorio común o contacto físico (animal) protosignificativo (Ct).
+La emisión del mensaje o intención transformativa (M) de C a I
+consiste en una modificación que el comunicante hace del estado espon­táneo 
+en que se encuentra el contacto, para convertirlo en significativo,
+es decir, portador de alguna posibilidad de apropiación del referente
+considerada importante por C para el cumplimiento de lo pretendido en
+su intención.
+Las condiciones requeridas para que tenga lugar esta simbolización,
+es decir, esta acción a un tiempo significadora (sobre el contacto) y 
+apropiativa (sobre el referente), se encuentran establecidas en el código (K).
+La significación (Σ) producida mediante el código (Kc) da forma al
+contacto (que sería la sustancia de ésta, se y sc), lo vuelve expresión (e,
+significante) de un contenido (c, significado) y constituye así el estrato
+sémico del objeto social.
+La recepción del mensaje consiste, por su parte, en la acción que el in­terpretante 
+ejerce sobre la forma del contacto para, al consumirla o des­construirla 
+mediante su propio uso del código (Kd), asumir la intención
+transformativa que ella trae y apropiarse así del referente (Rn).
+
+115 
+Cf. A. Leroi-Gourhan, Le gèste et la parole, I: Téchnique et langage, París,
+1964, p. 163.
+
+Diagrama 5
+
+El proceso práctico de comunicación/interpretación
+
+Seis funciones comunicativo/interpretativas se sintetizan en el proceso 
+social de producción/consumo de significaciones, cada una de ellas li­gada 
+a uno de los elementos principales que intervienen en él. (Aunque la
+importancia relativa de cada una puede variar desde el predominio hasta
+la accesoriedad, su presencia es indispensable).
+El primer eje (véase diagrama 6) está compuesto por las funciones
+propositiva, asuntiva y fáctica. La primera y la segunda consisten en el
+cumplimiento del telos autotransformativo del sujeto: el comunicante pro­pone 
+una intención, el interpretante la asume.
+La tercera consiste en el rescate de la base natural del proceso como
+vehículo mínimo de la relación entre C e I.
+El segundo eje está compuesto por las funciones significadora, 
+metasignificadora y estética. La primera y la segunda consisten en la doble
+inclusión que el proceso necesita hacer del código que lo posibilita: como
+médium con el que y en el que se significa. La tercera consiste en la rei­vindicación 
+del mensaje como intención que pone en crisis las posibilida­des del código.
+Tanto la acción que comunica como aquella que interpreta consisten
+en la elección —proyectada en la una, realizada en la otra— de una
+posibilidad entre todo el conjunto de posibilidades de forma que el campo 
+instrumental despliega sobre la naturaleza. La forma del objeto no
+puede ser tal, es decir, destacarse de lo informe o natural, ser inventada
+y percibida como sentido del objeto, si no es en tanto que resultado del
+uso —activo o productivo y pasivo o consuntivo— de un médium que
+delimita la frontera entre el sentido y el sinsentido de la infinidad de
+fenómenos naturales. El ciclo de la reproducción como proceso de vida
+social sólo es un producir/consumir significaciones, un cifrar/descifrar
+intenciones transformativas en la medida en que compone y descompo­ne 
+sus objetos-cifras de acuerdo a un código inherente a la estructura
+tecnológica del propio campo instrumental. Sólo la presencia de esta en­tidad 
+simbolizadora fundamental que establece las condiciones en que
+el sentido se junta o articula con la materia natural, es decir, las con­diciones 
+en que esta materia puede presentar la coincidencia entre un
+contenido o significado con una expresión o significante, vuelve posible
+el cumplimiento de la producción/consumo de objetos como un proceso
+de comunicación/interpretación.
+
+Diagrama 6
+
+Las funciones de la comunicación/interpretación 116
+
+C
+I
+Ct
+K
+
+R
+x
+n
+M
+S
+
+ELEMENTOS
+
+comunicador
+interpretador
+contacto
+código
+c para cifrar
+d para descifrar
+referente o con­texto
+x sin sentido
+n con sentido
+mensaje
+signo
+
+FUNCIONES
+
+Propositiva (expresiva)
+Asuntiva (conativa, apelativa)
+Fática
+Metasémica (metasignificadora)
+Sémica (significadora, o referencial)
+Estética (poética)
+
+Es característico del proceso social de producción/consumo que su
+uso del campo instrumental no se reduce al empleo de éste en la apro­piación 
+de la naturaleza, en la composición de una forma práctica u ob­jetiva 
+a partir de ella. Usar el campo instrumental consiste por un lado
+en obedecer y por otro en rebelarse al proyecto de objetividad que él trae
+
+116 
+Véase el origen de estas esquematizaciones en R. Jakobson, “Closing Statement:
+Linguistics and Poetics”, en Style and Language, Nueva York, 1960, pp. 353 ss.
+
+consigo en su composición técnica; es intervenir en la historia de la pro­ducción/consumo 
+como historia de la relación sujeto-objeto. La elección
+de una posibilidad de forma implica necesariamente una ratificación
+o una impugnación de todo el horizonte de posibilidades de forma; un
+subrayar o un modificar la línea que demarca la frontera entre lo que
+es forma en general y lo que no lo es. Por ello, la dimensión semiótica
+del proceso de reproducción social consiste en un producir-cifrar y un
+consumir-descifrar objetos-significaciones que sólo puede llevarse a ca­bo 
+en la medida en que usa un código diferente de todos los que rigen
+el comportamiento de los seres vivos puramente naturales; un código
+que, al ser empleado para constituir el sentido de las cosas, exige ser él
+mismo, simultáneamente, re-constituido, reafirmado con la misma o con
+otra constitución. El proceso de producción/consumo como proceso de comunicación/interpretación 
+es así un proceso no sólo de significar sino igualmente de metasignificar.
+El componer/descomponer libremente la forma del objeto práctico es
+un producir/consumir significaciones que juega con los límites del código,
+que rebasa la obediencia ciega de las reglas que rigen su realización. La
+posibilidad de este significar libre o meta-significador se encuentra ga­rantizada 
+por el propio código del comportamiento humano. Dar forma
+significativa al material natural es actuar sobre él, por un lado, en una
+perspectiva paradigmática: hacer que se distinga diacríticamente, dentro
+de un conjunto de objetos equiparables, por su semejanza o desemejanza
+con ellos. Por otro, simultáneamente, en una perspectiva sintagmática,
+es actuar sobre él para que se distinga por su ubicación relativa, espacial
+y temporal, respecto de los demás objetos de dicho conjunto 117. Las condi­ciones 
+que el código establece, de acuerdo a la combinación de estos dos
+órdenes o perspectivas, para que un material se articule con una forma y
+adquiera la presencia significativa de significado/significante son condi­ciones 
+que respetan un doble nivel de esa articulación. Un nivel primario,
+en el que a un material dado le corresponde “por naturaleza” una figura
+y una ubicación determinados, es decir, en que resulta espontáneamente
+significativo; y un segundo nivel, en el que la libertad se ejerce y la forma
+significativa, la combinación de figura y ubicación de ese material, debe
+ser, ineludiblemente, inventada 116.
+El código inherente al campo instrumental del proceso de reproduc­ción social, 
+esa entidad simbolizadora fundamental, sólo puede establecer
+
+117 
+Cf. R. Jakobson, “Two A spects of Language and Two Types of Aphasic Disturbances”, 
+en Selected Writings, II: World and Language, La Haya, 1971, p. 243.
+
+118 
+Cf. A. Martinet, “La doble articulación del lenguaje”, en La lingüística sincróni­ca, 
+Madrid, 1968, p. 10.
+
+las condiciones de articulación entre sentido y materia, es decir, de
+composición de formas objetivas, en la medida en que él mismo se en­cuentra 
+constituyendo constantemente dichas condiciones a partir de un
+estado de cosas dado, en el cual éstas se hallan apenas esbozadas como
+posibles. El articular propio del código social es un constante constituir
+su propio efecto simbolizador a partir de un estado natural preexistente
+del mismo. El sin-sentido a partir del cual el proyecto originario esta­blece 
+las condiciones de la presencia de sentido en los objetos es siempre,
+en realidad, un proto-sentido 119. El proyecto originario de simbolización
+consiste justamente en un trascender la articulación espontánea que el
+comportamiento animal, como estrato profundo del comportamiento hu­mano, 
+establece entre los fenómenos naturales externos a su vida or­gánica 
+y la presencia de los mismos en tanto que funcionalizados para
+la reproducción de su principio de organicidad vital. El proceso de vida
+animal entrega al proceso de vida humana una “protoforma” de la natu­raleza; 
+la existencia humana convierte a ésta en sustancia de la forma
+social-natural.
+Entre el sujeto productor-comunicador y el sujeto consumidor-inter­pretador 
+existe siempre un contacto físico que, considerado en su pre­sencia 
+más primaria, los relaciona como co-partícipes de un proceso de
+reproducción puramente animal. Los elementos de este contacto físico
+o ambiente natural de la vida, como “transformaciones” de la natura­leza 
+provocadas por el uno y esperadas por el otro, que “expresan” pa­ra 
+éste un “contenido” puesto en ellos por el otro, son así (vistos desde
+el horizonte de la vida social) materiales proto-significativos: poseen la
+sustancia (sc y se) que, formada por la conjunción propiamente humana
+de significado (c) y significante (e), pasa a constituir el verdadero carác­ter 
+significativo del objeto práctico. El contacto físico entre productor-comunicador 
+y consumidor-interpretador es en todo caso, incluso en és­ta, 
+su versión originaria o elemental, un contacto cargado por sí mismo
+de esbozos de significación, un “rumor” (fatis) 120 en el que uno y otro se
+hallan inmersos. Sólo sobre la base de esta comunicación/interpretación
+espontánea, primaria o derivadamente “natural”, se levanta la comuni­cación/interpretación 
+propiamente libre o humana.
+
+119 
+Cf. M. Merleau-Ponty, “Le langage indirect et les voix du silence”, en Signes,
+París, 1960, pp. 83-84.
+
+120 
+Esta “atmósfera de sociabilidad” que establece una “phatic communion” entre
+emisor y receptor fue puesta de relieve por B. Malinovski, “The Problem of Meaning 
+in Primitive Languages”, en C. K. Ogden y I. A. Richards, The Meaning of
+Meaning, Nueva York, 1968, p. 315. Véase también L. Hjelmslev, op. cit., p. 61.
+
+Diagrama 7
+
+La dimensión significativa del objeto práctico
+
+INTERPRETACIÓN
+
+Tal como el campo instrumental al que pertenece, el código tiene una
+historia porque el proceso de comunicación/interpretación no sólo se cumple 
+con él sino igualmente en él; porque él mismo, al servir en lo mani­fiesto, 
+se modifica en lo profundo 121. En principio, cada vez que el código
+es usado en la producción/consumo de significaciones, su proyecto de sen­tido 
+se pone en juego y puede entrar en peligro de dejar de ser lo que es.
+El proyecto de sentido, que es la instauración de un horizonte de signifi­caciones 
+posibles, puede ser trascendido por otro proyecto y pasar a cons­tituir 
+el estrato sustancial de una nueva instauración de posibilidades
+sémicas. En verdad, la historia del código tiene lugar como una sucesión
+de encabalgamientos de proyectos de sentido 122, resultante de la 
+refuncionalización —más o menos profunda y más o menos amplia— de proyectos
+precedentes por nuevos impulsos donadores de sentido.
+
+121 
+La insistencia en la idea de que el significar humano no es sólo comunicación/in­terpretación 
+de mensajes sino siempre historia de sí mismo, proviene, formulada
+en términos de la mística judía, de W. Benjamín (“Über die Sprache überhaupt
+und über die Sprache des Menschen” (1916) en Angelus Novus, Frankfurt a. M., 1966, 
+pp. 10-11). Retomada por Heidegger (“Holderlin und das Wesen der Dichtung”, en Erláuterungen 
+zu Hólderlins Dichtung, Frankfurt a. M., 1961, p. 35), ha sido desarrollada después 
+unilateralmente por la metafísica postestructuralista. Es también la condición 
+implícita del descubrimiento de Hjelmslev (op. cit.) de que el movimiento que constituye 
+la biplanaridad del signo depende de otro, el que constituye su doble estrato de sustancia y forma.
+
+122 Cf. L. Hjelmslev, op. cit., pp. 56-7.
+
+
+b. La comunicación/interpretación como lenguaje
+
+La dimensión semiótica de la vida social no se distingue en general
+del proceso práctico de producción/consumo. No es otra cosa que el modo
+en que la dualidad de éste —su ser físico y “político” a la vez— caracte­riza 
+a la realización efectiva de todos los actos, tanto del sujeto global
+como de los sujetos individuales. Sin embargo, dentro de esa dualidad, el
+predominio de lo “político” sobre lo físico requiere que el proceso de comu­nicación/interpretación, 
+como proceso que lo hace manifiesto, se cumpla
+de manera independiente respecto del cumplimiento práctico de la pro­ducción/consumo; 
+implica la necesidad de una existencia autónoma de la
+dimensión semiótica de la existencia social. Lo semiótico, al mismo tiem­po 
+que permanece en lo práctico, deja de confundirse con ello y se cons­tituye 
+como un proceso especial, “purificado”, de producción/consumo de
+significaciones. Puede decirse, por ello, que el ser humano, en tanto que
+es el “animal político”, es también el “animal dotado de lenguaje” (zoon
+logon ejon).
+El lenguaje en su realización básica, verbal, es también un proceso
+de producción/consumo de objetos. El hablante entrega a quien escucha
+una transformación de la naturaleza: su voz modifica el estado acústico
+de la atmósfera, y ese cambio, ese objeto, es percibido o consumido como
+tal por el oído del otro 123. Pero la producción/consumo de esa transforma­ción 
+acústica de la atmósfera se distingue de todos los demás procesos
+particulares de producción/consumo. Lo característico de ella está en que
+conjuga un mínimo de practicidad con un máximo de semioticidad.
+Mientras mayor es la importancia relativa de un proceso particular
+de producción/consumo en referencia al sistema combinado de necesida­des 
+y capacidades del sujeto social, menor es la posibilidad que hay en
+él de poner en juego libremente la forma del objeto práctico que produce/
+consume y menor es por lo tanto el repertorio de significaciones que pue­den 
+ser comunicadas/interpretadas en él. La transformación lingüística
+de materia tan sutil, dúctil y generalizada como es el estado acústico de
+la atmósfera ocupa sin duda en el sistema de necesidades de consumo
+y capacidades de producción un lugar de importancia relativa casi nu­la 124. 
+Los objetos prácticos que salen y entran en ella son en principio
+“siempre” posibles, “fáciles” de construir y “no sirven” casi para nada.
+
+123 
+Se trata de palabras, de tonalidades fónicas o fenómenos audibles dotados de
+significado, que, a manera de “siluetas” sonoras, se diferencian unas de otras
+por ciertas “marcas distintivas”, los fonemas. Cf. N. S. Trubetzkoy, Principes de
+Phonologie, París, 1970, p. 38.
+
+124 
+Cf. F. de Saussure, op. cit., p. 101.
+
+Su practicidad es sumamente enrarecida y por ello su semioticidad es­
+pecialmente densa. El repertorio de formas-significaciones que pueden
+articularse con su materia es infinitamente mayor que el que puede al­canzarse 
+con cualquier otro tipo de objetos. La producción/consumo de
+ellos ofrece así la vía privilegiada de la comunicación/interpretación.
+Si lo característico del ser humano reside en la necesidad a la que
+está sometido de producir y reproducir la forma de su socialidad, y si la
+dimensión semiótica de su existencia es el modo en que la asunción de
+esa necesidad se manifiesta en toda su actividad productivo/consuntiva,
+el lenguaje es entonces la instancia en la que el auto-proyectarse y 
+autorealizarse del sujeto social encuentra su “instrumento” más adecuado.
+Gracias a él, esta función característica del sujeto social se “libera” de
+su sujeción al plano básico de la producción/consumo de objetos como
+actividad de apropiación de la naturaleza. Imaginar, es decir, negar y
+trascender la “forma” dada mediante la composición de otra posible 125:
+esa actividad, exclusiva del animal que supedita su reproducción físi­ca 
+a su reproducción “política”, no consiste así únicamente en inventar
+formas “cautivas” de la practicidad del objeto. El proyectar que imagi­na 
+mediante la producción/consumo de significaciones lingüísticas pue­de 
+hacerlo “en el vacío”, desentendiéndose de las limitaciones directas,
+físicas y sociales, a las que tendría que someterse si sólo “hablara con
+hechos”.
+La potenciación de la capacidad semiótica que el lenguaje aporta a
+la vida social lo distingue funcionalmente de todas las otras vías que, a
+través de su practicidad particular, conducen el flujo significador de la
+vida social. La vida social es necesariamente logocéntrica 126: el lenguaje
+no sólo condensa y perfecciona pasivamente las realizaciones semióticas
+de la práctica; por el contrario, penetra y se inmiscuye con su perspec­tiva 
+propia en todas y cada una de ellas. No sólo les sirve, sino también
+las domina. En virtud del enfrentamiento que se establece así entre la
+comunicación/interpretación en general y el lenguaje, la semiosis social
+entra en una peculiar dinámica de “traducción” y “re-traducción” entre
+el hacer y el decir. Siempre, por más indirectamente que sea, lo que
+acontece con el lenguaje representa, en el escenario de la imaginación
+pura, aquello que acontece en el terreno de la proyección/realización
+práctica; pero, a su vez, nada acontece en este terreno que no constituya
+también una representación de aquello que se juega en el lenguaje.
+
+125 
+Cf. J.-P. Sartre, L'emaginaire, París, 1940, p. 232.
+
+126 
+Cf. R. Barthes, “Elements de sémiologie”, en Le degré zéro de l’écriture, París,
+1964, p. 80 [ed. esp.: El grado cero de la escritura, México, Siglo XXI, 1973].
+
+IV. Sobre la figura elemental del valor de uso
+
+Si se pone a la libertad como el hecho característico de la existencia
+humana, es decir, si se define el proceso de reproducción social como
+aquel que subordina estructuralmente su estrato físico de funciona­miento 
+a su estrato “político”, es imposible dejar de reconocer que en él
+se halla presente un conflicto fundamental: el conflicto entre lo social
+como forma y lo natural como sustancia formada. Lo natural rige en lo
+social, pero lo social no es continuación de lo natural: está del otro lado
+de un abismo que, paradójicamente, dentro de lo natural, lo separa de
+él 127. Para lo social, trascender y dar forma a la sustancia natural implica 
+necesariamente crear a partir de ella, dependiendo de ella, un or­den 
+autónomo. Al mismo tiempo que mantiene en sus rasgos generales
+el orden que ella posee espontáneamente, lo fuerza y recompone en su
+vigencia particular: lo convierte en el material de su propia creación.
+El proceso de reproducción social trans-naturaliza el cumplimiento
+de todas y cada una de las funciones propias del proceso de reproducción
+vital. Desde la perspectiva de la naturaleza, es una “perversión” de lo
+animal. La producción/consumo del alimento, la convivencia gregaria,
+la procreación, el mantenimiento de la especie, en general, son funciones
+que el ser humano debe cumplir, pero que él las cumple no por sí mis­mas 
+sino por algo que escapa al animal, que es extraño a su universo: la
+“producción” y el “consumo” de la forma de la socialidad.
+La “forma social-natural” propiamente dicha del proceso de repro­ducción 
+social se constituye en torno al conflicto que trae consigo la
+transnaturalización de la vida animal. Encarnación concreta de este
+conflicto, ella es, por necesidad, múltiple. Su constitución parte de una
+auto-elección originaria, de una elección de identidad, y ésta tiene lu­gar 
+siempre en una situación particular que la vuelve posible, en un
+marco determinado de condiciones y acontecimientos naturales, tanto
+étnicos como territoriales 128. La forma social natural implica así un
+pacto fundante del sujeto consigo mismo, en el que cristaliza una es­trategia 
+de autoafirmación como garantía de supervivencia. Se trata de
+un compromiso de mantener y cultivar la manera peculiar en que logró
+su transnaturalización, es decir, la selección inicial que hizo de aquello
+que del material animal debe ser reasumido y potenciado y de aquello
+que debe ser abandonado y reprimido. Desde su versión más simple y
+
+127 
+Cf. Claude. Lévy-Strauss, Les structures élémentaires de la parenté, París, 1967, p. 12.
+
+128 
+K. A. Wittfogel, Die natürlichen Ursachen der Wirtschaftsgeschichte, en Archiv
+für Sozialwissenschaft und Sozialpolitik, Tubinga, 1932.
+
+pura hasta sus versiones más complejas y reelaboradas, la forma social
+natural atraviesa por una historia que es una sucesión de fidelidades y
+traiciones a este compromiso originario.
+Seguir paso a paso el modo en que la transnaturalización entrega
+su nivel elemental de concreción a la “forma natural” del proceso de
+producción social, examina lo que acontece con la producción/consumo,
+tanto práctica como semiótica, cuando su realización no es solamente
+libre en abstracto sino libre y comprometida con un proyecto peculiar
+de humanidad, sería tarea de otro conjunto de notas, complementario
+del presente.
+Por lo que respecta a la conclusión que permite sacar el presente tra­bajo, 
+cabe señalar solamente que, según ellas, el concepto de “forma na­tural” 
+del discurso de Marx en El capital no hace referencia a un modo
+paradisiaco de existencia del ser humano, del que éste hubiese sido ex­pulsado 
+por su caída en el pecado original de la vida mercantil y capita­lista. 
+La forma social natural de la existencia humana que el comunista
+Marx quiere liberar de su sujeción a la “tiranía del capital” es por sí mis­ma 
+conflictiva, desgarrada; tanto la felicidad como la desdicha son posi­bles en ella. 
+Su liberación no sería el acceso a un mundo angelical, sino la 
+entrada en una historia en la que el ser humano viviría él mismo su 
+propio drama y no, como ahora, un drama ajeno que lo sacrifica día a día
+y lo encamina, sin que él pueda intervenir para nada, a la destrucción.

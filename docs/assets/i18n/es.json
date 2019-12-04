@@ -1,0 +1,197 @@
+{
+    "HOME": {
+        "TITLE": "Hola desde tranlate",
+        "TEXT": "Esto es una prueba",
+        "SELECT": "Select Language"
+    },
+    "INFO": {
+        "TITLE": "Cuerdas en el aire. Contribución estilométrica al estudio de la obra de Bolívar Echeverría",
+        "CONTRIBUTORS": "Aarón Aarón Aarón, Marlén Gerardo (curaduría)",
+        "DESCRIPTION": "Se presenta en este ensayo estilométrico una breve biografía del filósofo ecuatoriano Bolívar Echeverría, una reseña histórica de la estilometría y una interpretación leibniziana de esta disiplina. Posteriormente se expone un análisis de diversidad léxica, frecuencia de longitud y análisis léxico-gramatical. Finalmente, una propuesta de implementación del método Delta de John Burrows entre las obras autorales del crítico marxista y sus traducciones de Benjamin y Marx."
+    },
+    "QUOTE": {
+        "ECHEQUOTE": "en el hecho de la lectura el lector no solo acepta la propuesta de un uso concreto del código, que es lo primero que realiza el emisor-autor, más allá de sus intenciones explícitas. El receptor-lector se apodera de esta propuesta y la explora por su cuenta y a su manera, incitando con su inquietud inquisitiva a que el autor adquiera una vida virtual y entre en un proceso de metamorfosis. Tal es el carácter activo del descifrador-lector",
+        "VALLEJOQUOTE": "¿Por qué la cuerda, entonces, si el aire es tan sencillo? ¿Para qué la cadena, si existe el hierro por sí solo?"
+    },
+    "CONTENTS": {
+        "CONT_1": "Introducción",
+        "CONT_2": "Bolívar Echeverría. Biografía",
+        "CONT_3": "Breve reseña histórica y algunos presupuestos lógico-ontológicos de la estilometría",
+        "CONT_4": "Descripción de corpus",
+        "CONT_5": "Detalles técnicos",
+        "CONT_6": "Diversisad y análisis de la frecuencia de longitud léxica",
+        "CONT_7": "Análisis léxico-gramatical",
+        "CONT_8": "Análisis relacional. Respuesta estilométrica a la pregunta ¿De qué tratan los ensayos de Echeverría?' a partir del complemento de régimen preposicional 'de la'.",
+        "CONT_9": "Delta. Diferencia entre el lenguaje de Echeverría, Marx y Benjamin",
+        "CONT_10": "Cita de François Dominic Laramée sobre el algoritmo del método Delta de Burrows",
+        "CONT_11": "Conclusiones"
+    },
+    "TABLE_CONTENTS": {
+        "TH_TITLE": "Título",
+        "TH_FIRST_PUB": "Primera publicación",
+        "TH_AUTHOR": "Autor"
+    },
+    "INTRO": {
+        "P_1": "No necesitamos un algoritmo para entrever que el tema central de Bolívar Echeverría es la vida. La modernidad, el valor de uso, el eurocentrismo, son temas derivados de este hecho asombroso, confuso, alegre y doloroso. Sí, acaso, para recordárnoslo ahora que el estudio académico de su obra gana terreno. Si cada escritor tiene su estilo, cada uno tendrá su frecuencia. Su frecuencia, condición de estructuración de su discurso, es susceptible de análisis y visualización. Habrá que desarrollar nuevos métodos para arrojarse a este ejercicio de hacer visible lo enunciable y sensible lo inteligible. Una difícil tesis recorre la obra de Echeverría: el desarrollo tecnológico no proviene de Ares sino de Eros. Esta propuesta teórica, difícil de sostener, es, sin embargo, susceptible de desarrollarse. Así, pedimos al lector o lectora no obligarnos a la penosa tarea de justificar nuestro trabajo, pues no encontrará en este texto trabajo alguno. Y afirmamos que no sólo el trabajo revolucionará el presente y el futuro. Un juego muy serio, un estudio estilométrico de una parte de la obra de Bolívar Echeverría que proponemos como un modo de comunicar las Ciencias de la Computación y la Filosofía en la búsqueda y afirmación de un presente y un futuro mejor."
+    },
+    "ECHEBIO": {
+        "CONT_1": "El 1 de febrero de 1941, en la ciudad de Riobamba, Ecuador, nació Bolívar Echeverría Andrade. Fue el segundo de los seis hijos de un matrimonio celebrado entre una mujer católica y un comunista.  En 1947, su familia se mudó a Quito, capital del país. Estudió en el católico Colegio Lasalle hasta 1955, cuando es cambiado al estatal y laico Colegio Nacional Mejía. Durante este periodo leyó a Unamuno, quien lo puso en contacto con el existencialismo francés y posteriormente con Heidegger. En 1961 viajó a Alemania con apoyo del Servicio Alemán de Intercambio Académico. Ante la construcción del muro de Berlín, que comienza el mismo año, decide permanecer en la parte Oeste. Ahí se relacionó con la obra de Marx, Franz Fanon, la escuela de Frankfurt y el estructuralismo. En 1968 se dirigió a México y comenzó una prominente carrera académica en la UNAM. En 1971 es invitado a participar en un seminario dedicado al estudio de El capital en la Facultad de Economía. Obtuvo un título como Licenciado en Filosofía en 1974, como Maestro en Economía en 1991 y como Doctor en Filosofía en 1997. Desarrolló una intensa vida como docente, investigador y colaborador editorial. Murió en la Ciudad de México el 5 de junio de 2010 . En este país, el estudio de la obra de Marx pocas veces había tenido cotas tan altas.",
+        "CONT_2": "Tres aspectos nos parecen fundamentales de su propuesta teórica: 1) entender el proceso de comunicación como una dimensión del proceso de reproducción, por tanto, señalar la íntima relación entre lenguaje, pensamiento y herramientas (medios de trabajo); 2) su detallado análisis de la Modernidad y su postulación de una alternativa civilizatoria moderna mas no capitalista; 3) el desarrollo del concepto de valor de uso y su teoría de los ethos como estrategias de supervivencia ante la modernidad capitalista."
+    },
+    "STYLOHIST": {
+        "CONT_1": "Podemos entender por estilometría el análisis estadístico de uno o varios textos. O bien, como un microanálisis textual , esto es, un estudio cuantitativo del texto en componentes sub-proposicionales y sus relaciones. Su historia reciente se remonta a 1851 cuando Augusto de Morgan sugirió la posibilidad de una identificación autoral por medios cuantitativos. Thomas Mendenhall retomó esta idea y a finales de 1880 propuso que tomando como referencia la frecuencia de repetición de palabras de diferentes longitudes era posible medir el “espectro” de una palabra y descubrir por este medio la identidad de un autor . Cerca de treinta años más tarde George Zipf dio otro paso postulando la existencia de una relación lineal entre el número de ocurrencias de una palabra en un vocabulario y el conjunto de ese vocabulario. Cuando hacia 1960 Frederick Mosteller y David Wallace utilizaron métodos estilométricos para clarificar el problema de la autoría de los Federalist Papers la solidez de los resultados confirmaron la viabilidad de esta aproximación que a finales de los ochenta tendría toda una redefinición. Los trabajos de John Burrows  hicieron pasar la estilometría del cálculo estadístico de una variante al multivariante y de la identificación por semejanza a la aproximación por diferencia. Actualmente, el estudio computacional del lenguaje tiene un gran impacto en el desarrollo de la filología, las ciencias de la computación, la inteligencia artificial y la criminalística forense, por nombrar algunos casos. Una estilometría filosófica podría colaborar con el desarrollo de una comprensión morfológica del discurso filosófico, así como mejorar sus herramientas de investigación y discernimiento autoral en materia de traducción. Colabora además con el enriquecimiento del idioma español a nivel de análisis del lenguaje natural .",
+        "CONT_2": "Aunque de forma provisional y estadística, tres principios lógico-ontológicos pueden apreciarse: 1) el principio de los indiscernibles parece aplicarse a nivel del uso del lenguaje; 2) el principio de identidad; 3) el principio de no contradicción. En términos epistemológicos parece tratarse de una disciplina hipotético-deductiva. Esto si entendemos la “deducción probable” como estadística y dependente de una tasa de frecuencia al modo como lo hacía Pierce: “Una Deducción Probable propiamente dicha es una deducción cuyo Interpretante no representa que su conclusión sea cierta, pero sí representa que razonamientos exactamente análogos producirán, partiendo de premisas verdaderas, conclusiones verdaderas, en la mayoría de los casos, a largo plazo” . Algunos de los puntos en los que se sigue trabajando y permitirán tener una mejor comprensión son la estandarización de las frecuencias de las palabras en los textos, las diferentes medidas de distancia y la cantidad, tipos y calidad filológica de palabras que se deben asumir ."
+    },
+    "CORPUS_DESC": {
+        "ECHE_ESSAYS_DESC": {
+            "CONT_1": "Hemos tomado como pauta para nuestro estudio estilométrico la colección de ensayos dirigida por Carlos Antonio Aguirre Rojas bajo el título Bolívar Echeverría. Discurso crítico y modernidad . Reúne quince ensayos cuya publicación hemos datado entre 1976-2008 y distribuido de la siguiente manera."
+        },
+        "ECHE_ESSAY_TABLE_CONT": {
+            "ESSAY_1": {
+                "TITLE": "Definición del discurso crítico",
+                "YEAR": "1976"
+            },
+            "ESSAY_2": {
+                "TITLE": "El 'valor de uso': ontología y semiótica",
+                "YEAR": "1984"
+            },
+            "ESSAY_3": {
+                "TITLE": "Modernidad y capitalismo",
+                "YEAR": "1987"
+            },
+            "ESSAY_4": {
+                "TITLE": "Malintzin, la lengua",
+                "YEAR": "1994"
+            },
+            "ESSAY_5": {
+                "TITLE": "La identidad evanescente",
+                "YEAR": "1995"
+            },
+            "ESSAY_6": {
+                "TITLE": "Lo político en la política",
+                "YEAR": "1996"
+            },
+            "ESSAY_7": {
+                "TITLE": "El éthos barroco",
+                "YEAR": "1998"
+            },
+            "ESSAY_8": {
+                "TITLE": "Octavio Paz, muralista mexicano",
+                "YEAR": "2000"
+            },
+            "ESSAY_9": {
+                "TITLE": "El barroquismo en la América Latina",
+                "YEAR": "2006"
+            },
+            "ESSAY_10": {
+                "TITLE": "La religión de los modernos",
+                "YEAR": "2006"
+            },
+            "ESSAY_11": {
+                "TITLE": "De violencia a violencia",
+                "YEAR": "2006"
+            },
+            "ESSAY_12": {
+                "TITLE": "Meditaciones sobre el barroquismo",
+                "YEAR": "2007"
+            },
+            "ESSAY_13": {
+                "TITLE": "Acepciones de la ilustración",
+                "YEAR": "2007"
+            },
+            "ESSAY_14": {
+                "TITLE": "La modernidad 'americana'",
+                "YEAR": "2008"
+            },
+            "ESSAY_15": {
+                "TITLE": "La realidad nacional y el fetichismo moderno",
+                "YEAR": "Problema: encontrar el año de escritura"
+            }
+        },
+        "ECHE_TRANSLATION_DESC": {
+            "CONT_1": "Se han agregado además dos traducciones realizadas por Echeverría:"  
+        },
+        "ECHE_TRANS_TABLE_CONT": {
+            "TRANS_1": {
+                "AUTHOR": "Marx, Karl",
+                "TITLE": "Subsunción formal y subsunción real del proceso de trabajo al proceso de valorizaciónLa realidad nacional y el fetichismo moderno",
+                "YEAR": "1983"
+            },
+            "TRANS_2": {
+                "AUTHOR": "Benjamin, Walter",
+                "TITLE": "Tesis sobre la historia y otros fragmentos",
+                "YEAR": "2005"
+            }
+        },
+        "ECHE_CURE_PROCESS": {
+            "CONT_1": "Hemos transformado estos textos a formato txt y curado los errores tipográficos derivados."
+        }
+    },
+    "TECH_DESC": {
+        "CONT_1": "Los textos utilizados y los algoritmos desarrollados pueden encontrarse en el siguiente repositorio .  Hemos utilizado Python en su versión 3.7.4 como lenguaje de programación para nuestro estudio. Algunas librerías y módulos son fundamentales tales como: nltk, el etiquetador gramatical de Stanford y matplot. Dos textos han sido de inapreciable apoyo: ",
+        "REF_1": {
+            "AUTHOR": "François Dominic Laramée",
+            "ESSAY": "Introduction to stylometry with Python",
+            "LINK": "XXXXXXXXXXXX"
+        },
+        "REF_2": {
+            "AUTHOR": "José Calvo Tello",
+            "ESSAY": "Entendiendo Delta desde las humanidades",
+            "LINK": "XXXXXXXXXXXX"
+        }
+    },
+    "ECHE_FREQ": {
+        "CONTT_1": {
+            "SUBCONT_1": "Nos enfocaremos primero en los textos autorales de Echeverría. Agrupándolos todos como si fueran un solo texto obtenemos lo que en adelante denominaremos un corpus. Este corpus está compuesto de palabras a las que en adelante denominaremos tokens. Así, pues, podemos contar el total de tokens en un corpus (“tokenizar”) y obtener una primera impresión del léxico de un autor.",
+            "SUBCONT_2": "Contamos en este corpus un total de 124, 776 tokens; 15, 173 omitiendo las repeticiones. Si definimos la “diversidad léxica” como la razón del total de tokens en un corpus dividido por el número de tokens sin repetición obtenemos una “diversidad léxica” aproximada de 8.22. También podemos obtener el porcentaje que dentro de este conjunto representa un token específico. Así, por ejemplo, el porcentaje relativo para los casos de “modernidad”, “valor”, “uso”, “cambio” y “ethos” es de: 0.2388, 0.1691, 0.1089, 0.0528 y 0.0456 respectivamente. Tomando los siguientes signos de puntuación como delimitadores de periodos ('.', ';', '¿', '?', '!', '¡', '(', ')', '-') se deduce una longitud promedio de 15.4621 tokens por periodo. También es posible medir la frecuencia de la longitud de cada token. Si lo hacemos por ensayo podemos apreciar la singularidad léxica de ciertos textos como las '15 Tesis'. "
+        },
+        "CONT_2": "Tomando todo el corpus diríamos que en el léxico de Echeverría son muy frecuentes los tokens con 2 y 3 caracteres; frecuentes aquellos con 5, 4, 7, 6, 8, 9, 1 y 10; poco frecuentes aquellos con caracteres que oscilan entre los 11 y 16 y muy poco frecuentes los mayores o iguales a 17."
+    },
+    "ECHE_LEX_GRAMAR": {
+      "CONT_1": "De este conjunto de tokens podemos tomar un segmento de la frecuencia de repetición. Una muestra de los cien tokens más frecuentes arrojaría una gráfica como la siguiente.",
+      "CONT_2": "O bien, podemos obtener un detalle de la dispersión léxica de los tokens elegidos. En este caso: 'valor', 'uso', “cambio”, 'vida', 'muerte', 'sí', 'no', 'ethos', 'barroco'.",
+      "CONT_3": "Con la ayuda de un etiquetador gramatical como el desarrollado por la Universidad de Stanford podemos segmentar este corpus de acuerdo a su categoría  (sustantivos, verbos, adjetivos, adverbios, determinativos, pronombres, preposiciones, conjunciones), luego por número de repeticiones y graficarlo. Sugerimos descargar las imágenes del repositorio, hemos adjuntado una tabla con una muestra."
+    },
+    "ECHE_NETWORK": {
+        "CONT_1": "Además de estudiar la frecuencia de cada token, es posible estudiar la frecuencia de repetición de la relación entre tokens y complementarlo con una coloración gramatical. Así, obteniendo los principales cincuenta trigramas de cada ensayo que contengan el complemento de régimen preposicional “de la” es posible hallar una respuesta estilométrica a la pregunta: ¿De qué tratan los ensayos compilados? Nuestra respuesta será: “de la” y un grafo de 230 nodos y 229 vértices que parten de dicho nodo central. Sugerimos descargar la imagen del repositorio"
+    },
+    "ECHE_DELTA": {
+        "CONT_1": {
+            "SUBCONT_1": "Hasta este momento nos hemos esforzado por estudiar la singularidad del lenguaje de Echeverría. Por medio de estas curvas de composición, si quisiéramos saber si un texto corresponde o no un autor, deberíamos proceder por semejanza; calcular la proximidad a esta singularidad. Algo muy distinto pasa cuando, como con el método Delta de Borrows, hacemos predominar la diferencia. Podríamos medir así la “distancia” o “diferencia” que hay entre el lenguaje de varios textos. Tendríamos la capacidad de plantear cuestiones como la siguiente: dado un autor que ejerce como traductor, determinar la distancia existente entre el lenguaje empleado por este autor en sus propios textos y el lenguaje con el que ha traducido al autor de su elección. Esto es, dados los textos de Echeverría y sus traducciones de Marx y Benjamin, determinar la distancia entre el lenguaje de sus textos y el lenguaje de sus traducciones, o bien, qué tan distante está el lenguaje del Marx o el Benjamin de Echeverría del lenguaje del propio Echeverría.",
+            "SUBCONT_2": "Y responderemos: tomando como base el modelo de implementación que François Dominic Laramée hace del algoritmo de Burrows, obtendríamos las siguientes distancias."
+        },
+        "CONT_2": "Hemos incluido a Echeverría para que pueda tenerse una mejor impresión de la proporción. Diríamos entonces que el lenguaje de las traducciones de Marx es más cercano al lenguaje de Echeverría que el de Benjamin, aunque que ambos permanecen relativamente próximos. ",
+        "ECHE_DELTA_TABLE": {
+            "NODE": {
+                "AUTHOR": "Echeverría",
+                "DELTA": "0.1636"
+            },
+            "NODE2": {
+                "AUTHOR": "Marx",
+                "DELTA": "1.1665"
+            },
+            "NODE3": {
+                "AUTHOR": "Benjamin",
+                "DELTA": "1.3525"
+            }
+        }
+    },
+    "ECHE_DELTA_QUOTE": {
+        "CONT_1": "Los resultados expuestos se obtuvieron de la implementación de un algoritmo que, en palabras de Dominic Laramée, podría glosarse del siguiente modo",
+        "REF_1": {
+            "AUTHOR": "François Dominic Laramée",
+            "ESSAY": "Introduction to stylometry with Python",
+            "LINK": "XXXXXXXXXXXX"
+        }
+    },
+    "ECHE_CONCLUTIONS": {
+        "CONT_1": "Los resultados aquí expuestos pueden aún variar mucho. El número de textos puede ser aumentado o reducido, una cronología diferente puede ser adoptada, otros valores seleccionados, planteadas de otra manera las preguntas. Los algoritmos pueden perfeccionarse, utilizar otras herramientas, otros lenguajes. Creemos que sólo un esfuerzo constante y colectivo podrá plantear muchos otros más problemas y sólo este mismo esfuerzo sabrá cómo responderlos, disolverlos, replantearlos, deconstruirlos, funcionalizarlos o lo que sea que venga a bien. Para ello hemos compartido también nuestros medios de trabajo. Junto con Calvino, afirmamos que sólo la conexión de estos medios de investigación con nuestros propios “fantasmas” podrá despertar nuestra curiosidad y hacer valer la potencia de estas alternativas. Esta contribución es nuestro estilo de sonreír y construir un mejor mundo."
+    },
+    "BIBLIOGRAPHY": {
+        "CONT_1": "Bibliografía"
+    },
+    "SUPPORT":  {
+        "CONT_1": "Estamos trabajando en esto n_n"
+    }
+   
+}
